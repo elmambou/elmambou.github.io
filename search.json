@@ -35,19 +35,119 @@
   {
     "objectID": "story_telling.html",
     "href": "story_telling.html",
-    "title": "about me",
+    "title": "About Me",
     "section": "",
-    "text": "MarkDown Basics",
+    "text": "In a vibrant data science community, my journey from using Excel to mastering data science programming is a story of transformation and inspiration. This narrative not only highlights the significance of data science skills but also sheds light on how sharing this knowledge can empower others.\n\n\nI began my data journey with Excel, a tool beloved for its simplicity and accessibility. I meticulously crafted spreadsheets, harnessing functions and pivot tables to analyze data. While Excel served me well, I felt the limitations as datasets grew larger and analyses became more complex. The desire to delve deeper, uncover hidden patterns, and make more impactful decisions sparked my curiosity about data science.\n\n\n\nDetermined to expand my skill set, I embarked on learning data science programming. I discovered the immense power of languages like Python and R, and tools such as Jupyter Notebooks and libraries like pandas, NumPy, and scikit-learn. These tools allowed me to automate processes, handle massive datasets, and perform sophisticated analyses that were once beyond reach.\n\n\n\n\nEfficiency and Automation: With programming, I automated repetitive tasks, significantly reducing the time spent on data cleaning and preparation. This efficiency freed me to focus on deeper analysis and strategic decision-making.\nScalability: Unlike Excel, which struggles with large datasets, programming languages handle vast amounts of data effortlessly. I could now analyze millions of rows of data without performance issues, opening up new horizons for my projects.\nAdvanced Analysis: Data science programming enabled me to perform advanced statistical analyses, machine learning, and predictive modeling. Techniques like Random Forest Classifiers, which I used in my DS250 course project, provided insights that were previously unattainable.\nReproducibility and Collaboration: By writing code, I ensured my analyses were reproducible. Colleagues could review, validate, and build upon my work, fostering a collaborative environment where knowledge sharing thrived.\nVisualization and Communication: Tools like Matplotlib and Seaborn allowed me to create compelling visualizations, making complex data insights accessible and understandable to stakeholders. Effective communication of data findings became a cornerstone of my work.\n\n\n\n\nI recognized that the benefits of data science extend beyond personal growth. To share the importance of data science with others, I adopted several strategies:\n\nStorytelling: I shared my journey, highlighting the challenges and breakthroughs. By narrating how data science transformed my approach and outcomes, I inspired others to embark on similar paths.\nWorkshops and Training: I organized workshops to teach fundamental data science skills. Hands-on sessions, where participants could apply concepts to real-world problems, proved to be highly effective.\nMentorship: I mentored colleagues, providing guidance and support as they navigated their learning journeys. My experience and insights became a valuable resource for those eager to dive into data science.\nShowcasing Impact: Demonstrating tangible results from data science projects reinforced its importance. I presented case studies where data-driven decisions led to significant improvements, making a compelling case for investing in these skills.\nBuilding a Community: I fostered a supportive community where members could share knowledge, collaborate on projects, and celebrate successes. This sense of belonging and mutual growth motivated individuals to pursue data science with enthusiasm.\n\n\n\n\nMy story underscores the transformative power of data science. As I continue to refine my skills and share my knowledge, I envision a future where data literacy is widespread, and data-driven decision-making is the norm. By embracing data science, my community and I are not only preparing for the challenges of tomorrow but also shaping a future where data unlocks endless possibilities.",
     "crumbs": [
       "Story Telling"
     ]
   },
   {
-    "objectID": "story_telling.html#title-2-header",
-    "href": "story_telling.html#title-2-header",
-    "title": "about me",
+    "objectID": "story_telling.html#the-beginning-excel-days",
+    "href": "story_telling.html#the-beginning-excel-days",
+    "title": "About Me",
     "section": "",
-    "text": "MarkDown Basics",
+    "text": "I began my data journey with Excel, a tool beloved for its simplicity and accessibility. I meticulously crafted spreadsheets, harnessing functions and pivot tables to analyze data. While Excel served me well, I felt the limitations as datasets grew larger and analyses became more complex. The desire to delve deeper, uncover hidden patterns, and make more impactful decisions sparked my curiosity about data science.",
+    "crumbs": [
+      "Story Telling"
+    ]
+  },
+  {
+    "objectID": "story_telling.html#the-transition-embracing-data-science",
+    "href": "story_telling.html#the-transition-embracing-data-science",
+    "title": "About Me",
+    "section": "",
+    "text": "Determined to expand my skill set, I embarked on learning data science programming. I discovered the immense power of languages like Python and R, and tools such as Jupyter Notebooks and libraries like pandas, NumPy, and scikit-learn. These tools allowed me to automate processes, handle massive datasets, and perform sophisticated analyses that were once beyond reach.",
+    "crumbs": [
+      "Story Telling"
+    ]
+  },
+  {
+    "objectID": "story_telling.html#the-benefits-unleashing-new-possibilities",
+    "href": "story_telling.html#the-benefits-unleashing-new-possibilities",
+    "title": "About Me",
+    "section": "",
+    "text": "Efficiency and Automation: With programming, I automated repetitive tasks, significantly reducing the time spent on data cleaning and preparation. This efficiency freed me to focus on deeper analysis and strategic decision-making.\nScalability: Unlike Excel, which struggles with large datasets, programming languages handle vast amounts of data effortlessly. I could now analyze millions of rows of data without performance issues, opening up new horizons for my projects.\nAdvanced Analysis: Data science programming enabled me to perform advanced statistical analyses, machine learning, and predictive modeling. Techniques like Random Forest Classifiers, which I used in my DS250 course project, provided insights that were previously unattainable.\nReproducibility and Collaboration: By writing code, I ensured my analyses were reproducible. Colleagues could review, validate, and build upon my work, fostering a collaborative environment where knowledge sharing thrived.\nVisualization and Communication: Tools like Matplotlib and Seaborn allowed me to create compelling visualizations, making complex data insights accessible and understandable to stakeholders. Effective communication of data findings became a cornerstone of my work.",
+    "crumbs": [
+      "Story Telling"
+    ]
+  },
+  {
+    "objectID": "story_telling.html#the-future-sharing-the-importance-of-data-science",
+    "href": "story_telling.html#the-future-sharing-the-importance-of-data-science",
+    "title": "About Me",
+    "section": "",
+    "text": "I recognized that the benefits of data science extend beyond personal growth. To share the importance of data science with others, I adopted several strategies:\n\nStorytelling: I shared my journey, highlighting the challenges and breakthroughs. By narrating how data science transformed my approach and outcomes, I inspired others to embark on similar paths.\nWorkshops and Training: I organized workshops to teach fundamental data science skills. Hands-on sessions, where participants could apply concepts to real-world problems, proved to be highly effective.\nMentorship: I mentored colleagues, providing guidance and support as they navigated their learning journeys. My experience and insights became a valuable resource for those eager to dive into data science.\nShowcasing Impact: Demonstrating tangible results from data science projects reinforced its importance. I presented case studies where data-driven decisions led to significant improvements, making a compelling case for investing in these skills.\nBuilding a Community: I fostered a supportive community where members could share knowledge, collaborate on projects, and celebrate successes. This sense of belonging and mutual growth motivated individuals to pursue data science with enthusiasm.",
+    "crumbs": [
+      "Story Telling"
+    ]
+  },
+  {
+    "objectID": "story_telling.html#conclusion-a-vision-for-the-future",
+    "href": "story_telling.html#conclusion-a-vision-for-the-future",
+    "title": "About Me",
+    "section": "",
+    "text": "My story underscores the transformative power of data science. As I continue to refine my skills and share my knowledge, I envision a future where data literacy is widespread, and data-driven decision-making is the norm. By embracing data science, my community and I are not only preparing for the challenges of tomorrow but also shaping a future where data unlocks endless possibilities.",
+    "crumbs": [
+      "Story Telling"
+    ]
+  },
+  {
+    "objectID": "story_telling.html#dear-substack-community",
+    "href": "story_telling.html#dear-substack-community",
+    "title": "About Me",
+    "section": "Dear Substack Community,",
+    "text": "Dear Substack Community,\nIn a world brimming with possibilities, I’ve chosen to embrace each opportunity with fervor, gratitude, and an unwavering resolve to carve my own path. Welcome to my corner of the internet, where I invite you to embark on a journey fueled by passion, perseverance, and an insatiable thirst for knowledge.",
+    "crumbs": [
+      "Story Telling"
+    ]
+  },
+  {
+    "objectID": "story_telling.html#the-power-of-positivity",
+    "href": "story_telling.html#the-power-of-positivity",
+    "title": "About Me",
+    "section": "The Power of Positivity",
+    "text": "The Power of Positivity\nI believe that life’s challenges are not roadblocks but stepping stones toward personal growth and enlightenment. With every obstacle encountered, I’ve learned to pivot, adapt, and emerge stronger than before. Through the lens of positivity and a steadfast determination, I’ve transformed setbacks into springboards for success.",
+    "crumbs": [
+      "Story Telling"
+    ]
+  },
+  {
+    "objectID": "story_telling.html#a-diverse-academic-journey",
+    "href": "story_telling.html#a-diverse-academic-journey",
+    "title": "About Me",
+    "section": "A Diverse Academic Journey",
+    "text": "A Diverse Academic Journey\nMy academic journey is a testament to this ethos. With degrees spanning Natural Science, Economics, Finance, and Applied Information Technology, I’ve cultivated a diverse skill set rooted in curiosity and a hunger for understanding. Currently pursuing a degree in Data Science at BYU Idaho, I’m delving deeper into the realm of big data analytics, recognizing its pivotal role in shaping our future.",
+    "crumbs": [
+      "Story Telling"
+    ]
+  },
+  {
+    "objectID": "story_telling.html#the-bridge-of-language",
+    "href": "story_telling.html#the-bridge-of-language",
+    "title": "About Me",
+    "section": "The Bridge of Language",
+    "text": "The Bridge of Language\nBeyond academia, my linguistic prowess serves as a bridge connecting me with individuals from all walks of life. Fluent in French, English, Spanish, and German, with Portuguese on the horizon, I’ve discovered that effective communication transcends language barriers, fostering meaningful connections and enriching experiences.",
+    "crumbs": [
+      "Story Telling"
+    ]
+  },
+  {
+    "objectID": "story_telling.html#the-cornerstone-of-gratitude",
+    "href": "story_telling.html#the-cornerstone-of-gratitude",
+    "title": "About Me",
+    "section": "The Cornerstone of Gratitude",
+    "text": "The Cornerstone of Gratitude\nBut amidst the pursuit of knowledge and professional endeavors, one principle remains constant: gratitude. I firmly believe that gratitude is the cornerstone of resilience, anchoring us in moments of uncertainty and propelling us toward brighter horizons. Each day presents an opportunity to express gratitude, to find joy in the mundane, and to cultivate a positive mindset that transcends circumstances.",
+    "crumbs": [
+      "Story Telling"
+    ]
+  },
+  {
+    "objectID": "story_telling.html#an-invitation-to-join-the-journey",
+    "href": "story_telling.html#an-invitation-to-join-the-journey",
+    "title": "About Me",
+    "section": "An Invitation to Join the Journey",
+    "text": "An Invitation to Join the Journey\nSo, dear reader, I extend an invitation to join me on this exhilarating voyage. Together, let’s celebrate the beauty of resilience, the power of gratitude, and the boundless potential that lies within each of us. Let’s inspire one another, uplift one another, and discover the infinite possibilities that await us on this remarkable journey called life.\nWith gratitude and optimism,\nElie M.",
     "crumbs": [
       "Story Telling"
     ]
