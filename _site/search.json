@@ -1,54 +1,242 @@
 [
   {
-    "objectID": "competition.html",
-    "href": "competition.html",
-    "title": "about me",
+    "objectID": "story_telling.html",
+    "href": "story_telling.html",
+    "title": "About Me",
     "section": "",
-    "text": "MarkDown Basics",
+    "text": "In a vibrant data science community, my journey from using Excel to mastering data science programming is a story of transformation and inspiration. This narrative not only highlights the significance of data science skills but also sheds light on how sharing this knowledge can empower others.\n\n\nI began my data journey with Excel, a tool beloved for its simplicity and accessibility. I meticulously crafted spreadsheets, harnessing functions and pivot tables to analyze data. While Excel served me well, I felt the limitations as datasets grew larger and analyses became more complex. The desire to delve deeper, uncover hidden patterns, and make more impactful decisions sparked my curiosity about data science.\n\n\n\nDetermined to expand my skill set, I embarked on learning data science programming. I discovered the immense power of languages like Python and R, and tools such as Jupyter Notebooks and libraries like pandas, NumPy, and scikit-learn. These tools allowed me to automate processes, handle massive datasets, and perform sophisticated analyses that were once beyond reach.\n\n\n\n\nEfficiency and Automation: With programming, I automated repetitive tasks, significantly reducing the time spent on data cleaning and preparation. This efficiency freed me to focus on deeper analysis and strategic decision-making.\nScalability: Unlike Excel, which struggles with large datasets, programming languages handle vast amounts of data effortlessly. I could now analyze millions of rows of data without performance issues, opening up new horizons for my projects.\nAdvanced Analysis: Data science programming enabled me to perform advanced statistical analyses, machine learning, and predictive modeling. Techniques like Random Forest Classifiers, which I used in my DS250 course project, provided insights that were previously unattainable.\nReproducibility and Collaboration: By writing code, I ensured my analyses were reproducible. Colleagues could review, validate, and build upon my work, fostering a collaborative environment where knowledge sharing thrived.\nVisualization and Communication: Tools like Matplotlib and Seaborn allowed me to create compelling visualizations, making complex data insights accessible and understandable to stakeholders. Effective communication of data findings became a cornerstone of my work.\n\n\n\n\nI recognized that the benefits of data science extend beyond personal growth. To share the importance of data science with others, I adopted several strategies:\n\nStorytelling: I shared my journey, highlighting the challenges and breakthroughs. By narrating how data science transformed my approach and outcomes, I inspired others to embark on similar paths.\nWorkshops and Training: I organized workshops to teach fundamental data science skills. Hands-on sessions, where participants could apply concepts to real-world problems, proved to be highly effective.\nMentorship: I mentored colleagues, providing guidance and support as they navigated their learning journeys. My experience and insights became a valuable resource for those eager to dive into data science.\nShowcasing Impact: Demonstrating tangible results from data science projects reinforced its importance. I presented case studies where data-driven decisions led to significant improvements, making a compelling case for investing in these skills.\nBuilding a Community: I fostered a supportive community where members could share knowledge, collaborate on projects, and celebrate successes. This sense of belonging and mutual growth motivated individuals to pursue data science with enthusiasm.\n\n\n\n\nMy story underscores the transformative power of data science. As I continue to refine my skills and share my knowledge, I envision a future where data literacy is widespread, and data-driven decision-making is the norm. By embracing data science, my community and I are not only preparing for the challenges of tomorrow but also shaping a future where data unlocks endless possibilities.",
     "crumbs": [
-      "Competition"
+      "Story Telling"
     ]
   },
   {
-    "objectID": "competition.html#title-2-header",
-    "href": "competition.html#title-2-header",
-    "title": "about me",
+    "objectID": "story_telling.html#the-beginning-excel-days",
+    "href": "story_telling.html#the-beginning-excel-days",
+    "title": "About Me",
     "section": "",
-    "text": "MarkDown Basics",
+    "text": "I began my data journey with Excel, a tool beloved for its simplicity and accessibility. I meticulously crafted spreadsheets, harnessing functions and pivot tables to analyze data. While Excel served me well, I felt the limitations as datasets grew larger and analyses became more complex. The desire to delve deeper, uncover hidden patterns, and make more impactful decisions sparked my curiosity about data science.",
     "crumbs": [
-      "Competition"
+      "Story Telling"
     ]
   },
   {
-    "objectID": "Cleansing_Projects/project3.html",
-    "href": "Cleansing_Projects/project3.html",
+    "objectID": "story_telling.html#the-transition-embracing-data-science",
+    "href": "story_telling.html#the-transition-embracing-data-science",
+    "title": "About Me",
+    "section": "",
+    "text": "Determined to expand my skill set, I embarked on learning data science programming. I discovered the immense power of languages like Python and R, and tools such as Jupyter Notebooks and libraries like pandas, NumPy, and scikit-learn. These tools allowed me to automate processes, handle massive datasets, and perform sophisticated analyses that were once beyond reach.",
+    "crumbs": [
+      "Story Telling"
+    ]
+  },
+  {
+    "objectID": "story_telling.html#the-benefits-unleashing-new-possibilities",
+    "href": "story_telling.html#the-benefits-unleashing-new-possibilities",
+    "title": "About Me",
+    "section": "",
+    "text": "Efficiency and Automation: With programming, I automated repetitive tasks, significantly reducing the time spent on data cleaning and preparation. This efficiency freed me to focus on deeper analysis and strategic decision-making.\nScalability: Unlike Excel, which struggles with large datasets, programming languages handle vast amounts of data effortlessly. I could now analyze millions of rows of data without performance issues, opening up new horizons for my projects.\nAdvanced Analysis: Data science programming enabled me to perform advanced statistical analyses, machine learning, and predictive modeling. Techniques like Random Forest Classifiers, which I used in my DS250 course project, provided insights that were previously unattainable.\nReproducibility and Collaboration: By writing code, I ensured my analyses were reproducible. Colleagues could review, validate, and build upon my work, fostering a collaborative environment where knowledge sharing thrived.\nVisualization and Communication: Tools like Matplotlib and Seaborn allowed me to create compelling visualizations, making complex data insights accessible and understandable to stakeholders. Effective communication of data findings became a cornerstone of my work.",
+    "crumbs": [
+      "Story Telling"
+    ]
+  },
+  {
+    "objectID": "story_telling.html#the-future-sharing-the-importance-of-data-science",
+    "href": "story_telling.html#the-future-sharing-the-importance-of-data-science",
+    "title": "About Me",
+    "section": "",
+    "text": "I recognized that the benefits of data science extend beyond personal growth. To share the importance of data science with others, I adopted several strategies:\n\nStorytelling: I shared my journey, highlighting the challenges and breakthroughs. By narrating how data science transformed my approach and outcomes, I inspired others to embark on similar paths.\nWorkshops and Training: I organized workshops to teach fundamental data science skills. Hands-on sessions, where participants could apply concepts to real-world problems, proved to be highly effective.\nMentorship: I mentored colleagues, providing guidance and support as they navigated their learning journeys. My experience and insights became a valuable resource for those eager to dive into data science.\nShowcasing Impact: Demonstrating tangible results from data science projects reinforced its importance. I presented case studies where data-driven decisions led to significant improvements, making a compelling case for investing in these skills.\nBuilding a Community: I fostered a supportive community where members could share knowledge, collaborate on projects, and celebrate successes. This sense of belonging and mutual growth motivated individuals to pursue data science with enthusiasm.",
+    "crumbs": [
+      "Story Telling"
+    ]
+  },
+  {
+    "objectID": "story_telling.html#conclusion-a-vision-for-the-future",
+    "href": "story_telling.html#conclusion-a-vision-for-the-future",
+    "title": "About Me",
+    "section": "",
+    "text": "My story underscores the transformative power of data science. As I continue to refine my skills and share my knowledge, I envision a future where data literacy is widespread, and data-driven decision-making is the norm. By embracing data science, my community and I are not only preparing for the challenges of tomorrow but also shaping a future where data unlocks endless possibilities.",
+    "crumbs": [
+      "Story Telling"
+    ]
+  },
+  {
+    "objectID": "story_telling.html#dear-substack-community",
+    "href": "story_telling.html#dear-substack-community",
+    "title": "About Me",
+    "section": "Dear Substack Community,",
+    "text": "Dear Substack Community,\nIn a world brimming with possibilities, I’ve chosen to embrace each opportunity with fervor, gratitude, and an unwavering resolve to carve my own path. Welcome to my corner of the internet, where I invite you to embark on a journey fueled by passion, perseverance, and an insatiable thirst for knowledge.",
+    "crumbs": [
+      "Story Telling"
+    ]
+  },
+  {
+    "objectID": "story_telling.html#the-power-of-positivity",
+    "href": "story_telling.html#the-power-of-positivity",
+    "title": "About Me",
+    "section": "The Power of Positivity",
+    "text": "The Power of Positivity\nI believe that life’s challenges are not roadblocks but stepping stones toward personal growth and enlightenment. With every obstacle encountered, I’ve learned to pivot, adapt, and emerge stronger than before. Through the lens of positivity and a steadfast determination, I’ve transformed setbacks into springboards for success.",
+    "crumbs": [
+      "Story Telling"
+    ]
+  },
+  {
+    "objectID": "story_telling.html#a-diverse-academic-journey",
+    "href": "story_telling.html#a-diverse-academic-journey",
+    "title": "About Me",
+    "section": "A Diverse Academic Journey",
+    "text": "A Diverse Academic Journey\nMy academic journey is a testament to this ethos. With degrees spanning Natural Science, Economics, Finance, and Applied Information Technology, I’ve cultivated a diverse skill set rooted in curiosity and a hunger for understanding. Currently pursuing a degree in Data Science at BYU Idaho, I’m delving deeper into the realm of big data analytics, recognizing its pivotal role in shaping our future.",
+    "crumbs": [
+      "Story Telling"
+    ]
+  },
+  {
+    "objectID": "story_telling.html#the-bridge-of-language",
+    "href": "story_telling.html#the-bridge-of-language",
+    "title": "About Me",
+    "section": "The Bridge of Language",
+    "text": "The Bridge of Language\nBeyond academia, my linguistic prowess serves as a bridge connecting me with individuals from all walks of life. Fluent in French, English, Spanish, and German, with Portuguese on the horizon, I’ve discovered that effective communication transcends language barriers, fostering meaningful connections and enriching experiences.",
+    "crumbs": [
+      "Story Telling"
+    ]
+  },
+  {
+    "objectID": "story_telling.html#the-cornerstone-of-gratitude",
+    "href": "story_telling.html#the-cornerstone-of-gratitude",
+    "title": "About Me",
+    "section": "The Cornerstone of Gratitude",
+    "text": "The Cornerstone of Gratitude\nBut amidst the pursuit of knowledge and professional endeavors, one principle remains constant: gratitude. I firmly believe that gratitude is the cornerstone of resilience, anchoring us in moments of uncertainty and propelling us toward brighter horizons. Each day presents an opportunity to express gratitude, to find joy in the mundane, and to cultivate a positive mindset that transcends circumstances.",
+    "crumbs": [
+      "Story Telling"
+    ]
+  },
+  {
+    "objectID": "story_telling.html#an-invitation-to-join-the-journey",
+    "href": "story_telling.html#an-invitation-to-join-the-journey",
+    "title": "About Me",
+    "section": "An Invitation to Join the Journey",
+    "text": "An Invitation to Join the Journey\nSo, dear reader, I extend an invitation to join me on this exhilarating voyage. Together, let’s celebrate the beauty of resilience, the power of gratitude, and the boundless potential that lies within each of us. Let’s inspire one another, uplift one another, and discover the infinite possibilities that await us on this remarkable journey called life.\nWith gratitude and optimism,\nElie M.",
+    "crumbs": [
+      "Story Telling"
+    ]
+  },
+  {
+    "objectID": "Story_Telling/project4.html",
+    "href": "Story_Telling/project4.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Data Cleansing",
+      "Story Telling",
+      "Project 4"
+    ]
+  },
+  {
+    "objectID": "Story_Telling/project2.html",
+    "href": "Story_Telling/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Story Telling",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Elie Mambou’s CV",
+    "section": "",
+    "text": "Multilanguage Translation Manager, Full Stack Developer.\n\nmam13003@byui.edu | My linkedin page\n\n\n\nWorking for The Africa South Area, Church of Jesus Christ of latter-day Saints\n\n\nTraining, developing capabilities among team members, Coordinating resolutions of issues, and balancing priorities.\n\n\n\nEnglish, French, German, Spanish and Portuguese.\n\n\n\nMay 2020 - Present Multilanguage Translation Manager, May 2020 - Present\nJanuary 20213 - Aprl 2020 Senior Accountant, January 2013 - April 2020\n\n\n\n\n1987 - 1992 Rural Institute of Development\n1993 - 1995 Faculty of Economic Science\n2014 - 2019 Brigham Young University Idaho, Rexburg USA, Bachelor of Science, Business Management, emphasis - Finance\nWriting and Reasoning foundations; Marketing Management; Entrepreneurial Management; Organizational Effectiveness; Business & Leadership skills; Business Statistics; Production & Operation Management; Commercial Fundamentals; Financial and Managerial Accounting\n2021 - 2024 Brigham Young University Idaho, Rexburg USA, Bachelor of Science, Applied Technology, emphasis - Web Development\nCreate dynamic webpages adhering to industry standards and best practices; Continuously acquire and implement new technologies and programming technique; Demonstrate well-developed problem-solving skills; Utilize Object-Oriented Programming principles; Demonstrate the ability to design and develop effective online solutions using current web technologies; Develop programs to achieve meaningful tasks across diverse domains\n\n\n\nCSS, HTML, JavaScript, Python & SQL Proficient in Excel and Microsoft Office, Presentation Skills, Teamwork and Collaboration, Conflict Resolution & Problem solving, Communication & Organization\n\n\n\nSoccer, Reading, Gardening"
+  },
+  {
+    "objectID": "resume.html#currently",
+    "href": "resume.html#currently",
+    "title": "Elie Mambou’s CV",
+    "section": "",
+    "text": "Working for The Africa South Area, Church of Jesus Christ of latter-day Saints\n\n\nTraining, developing capabilities among team members, Coordinating resolutions of issues, and balancing priorities.\n\n\n\nEnglish, French, German, Spanish and Portuguese.\n\n\n\nMay 2020 - Present Multilanguage Translation Manager, May 2020 - Present\nJanuary 20213 - Aprl 2020 Senior Accountant, January 2013 - April 2020"
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Elie Mambou’s CV",
+    "section": "",
+    "text": "1987 - 1992 Rural Institute of Development\n1993 - 1995 Faculty of Economic Science\n2014 - 2019 Brigham Young University Idaho, Rexburg USA, Bachelor of Science, Business Management, emphasis - Finance\nWriting and Reasoning foundations; Marketing Management; Entrepreneurial Management; Organizational Effectiveness; Business & Leadership skills; Business Statistics; Production & Operation Management; Commercial Fundamentals; Financial and Managerial Accounting\n2021 - 2024 Brigham Young University Idaho, Rexburg USA, Bachelor of Science, Applied Technology, emphasis - Web Development\nCreate dynamic webpages adhering to industry standards and best practices; Continuously acquire and implement new technologies and programming technique; Demonstrate well-developed problem-solving skills; Utilize Object-Oriented Programming principles; Demonstrate the ability to design and develop effective online solutions using current web technologies; Develop programs to achieve meaningful tasks across diverse domains"
+  },
+  {
+    "objectID": "resume.html#skills",
+    "href": "resume.html#skills",
+    "title": "Elie Mambou’s CV",
+    "section": "",
+    "text": "CSS, HTML, JavaScript, Python & SQL Proficient in Excel and Microsoft Office, Presentation Skills, Teamwork and Collaboration, Conflict Resolution & Problem solving, Communication & Organization"
+  },
+  {
+    "objectID": "resume.html#hobbies",
+    "href": "resume.html#hobbies",
+    "title": "Elie Mambou’s CV",
+    "section": "",
+    "text": "Soccer, Reading, Gardening"
+  },
+  {
+    "objectID": "Machine_Learning/project5.html",
+    "href": "Machine_Learning/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Machine Learning",
+      "Project 5"
+    ]
+  },
+  {
+    "objectID": "Machine_Learning/project3.html",
+    "href": "Machine_Learning/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Machine Learning",
       "Project 3"
     ]
   },
   {
-    "objectID": "Cleansing_Projects/project1.html",
-    "href": "Cleansing_Projects/project1.html",
+    "objectID": "Machine_Learning/project1.html",
+    "href": "Machine_Learning/project1.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Data Cleansing",
+      "Machine Learning",
       "Project 1"
     ]
   },
   {
-    "objectID": "Cleansing_Projects/project4.html",
-    "href": "Cleansing_Projects/project4.html",
+    "objectID": "full_stack.html",
+    "href": "full_stack.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Full Stack"
+    ]
+  },
+  {
+    "objectID": "full_stack.html#title-2-header",
+    "href": "full_stack.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Full Stack"
+    ]
+  },
+  {
+    "objectID": "Full_Stack/project4.html",
+    "href": "Full_Stack/project4.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Data Cleansing",
+      "Full Stack",
       "Project 4"
     ]
   },
@@ -64,13 +252,33 @@
     ]
   },
   {
-    "objectID": "Full_Stack/project5.html",
-    "href": "Full_Stack/project5.html",
+    "objectID": "exploration.html",
+    "href": "exploration.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Data Exploration"
+    ]
+  },
+  {
+    "objectID": "exploration.html#title-2-header",
+    "href": "exploration.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Data Exploration"
+    ]
+  },
+  {
+    "objectID": "Competition/project5.html",
+    "href": "Competition/project5.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Full Stack",
+      "Competition",
       "Project 5"
     ]
   },
@@ -97,6 +305,127 @@
     ]
   },
   {
+    "objectID": "Cleansing_Projects/project4.html",
+    "href": "Cleansing_Projects/project4.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Data Cleansing",
+      "Project 4"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project2.html",
+    "href": "Cleansing_Projects/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Data Cleansing",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Exploration/project5.html",
+    "href": "Cleansing_Exploration/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Cleansing_Exploration/project3.html",
+    "href": "Cleansing_Exploration/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Cleansing_Exploration/project1.html",
+    "href": "Cleansing_Exploration/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "cleansing.html",
+    "href": "cleansing.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Data Cleansing"
+    ]
+  },
+  {
+    "objectID": "cleansing.html#title-2-header",
+    "href": "cleansing.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Data Cleansing"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Exploration/project2.html",
+    "href": "Cleansing_Exploration/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Cleansing_Exploration/project4.html",
+    "href": "Cleansing_Exploration/project4.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Cleansing_Projects/project1.html",
+    "href": "Cleansing_Projects/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Data Cleansing",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project3.html",
+    "href": "Cleansing_Projects/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Data Cleansing",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project5.html",
+    "href": "Cleansing_Projects/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Data Cleansing",
+      "Project 5"
+    ]
+  },
+  {
+    "objectID": "Competition/project2.html",
+    "href": "Competition/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Competition",
+      "Project 2"
+    ]
+  },
+  {
     "objectID": "Competition/project4.html",
     "href": "Competition/project4.html",
     "title": "Client Report - [Insert Project Title]",
@@ -108,37 +437,56 @@
     ]
   },
   {
-    "objectID": "Cleansing_Exploration/project2.html",
-    "href": "Cleansing_Exploration/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "Cleansing_Exploration/project5.html",
-    "href": "Cleansing_Exploration/project5.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "story_telling.html",
-    "href": "story_telling.html",
+    "objectID": "competition.html",
+    "href": "competition.html",
     "title": "about me",
     "section": "",
     "text": "MarkDown Basics",
     "crumbs": [
-      "Story Telling"
+      "Competition"
     ]
   },
   {
-    "objectID": "story_telling.html#title-2-header",
-    "href": "story_telling.html#title-2-header",
+    "objectID": "competition.html#title-2-header",
+    "href": "competition.html#title-2-header",
     "title": "about me",
     "section": "",
     "text": "MarkDown Basics",
     "crumbs": [
-      "Story Telling"
+      "Competition"
+    ]
+  },
+  {
+    "objectID": "Full_Stack/project1.html",
+    "href": "Full_Stack/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Full Stack",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Full_Stack/project3.html",
+    "href": "Full_Stack/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Full Stack",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Full_Stack/project5.html",
+    "href": "Full_Stack/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Full Stack",
+      "Project 5"
     ]
   },
   {
@@ -167,87 +515,34 @@
     ]
   },
   {
-    "objectID": "Machine_Learning/project5.html",
-    "href": "Machine_Learning/project5.html",
+    "objectID": "Machine_Learning/project4.html",
+    "href": "Machine_Learning/project4.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
       "Machine Learning",
-      "Project 5"
-    ]
-  },
-  {
-    "objectID": "cleansing.html",
-    "href": "cleansing.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Data Cleansing"
-    ]
-  },
-  {
-    "objectID": "cleansing.html#title-2-header",
-    "href": "cleansing.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Data Cleansing"
-    ]
-  },
-  {
-    "objectID": "exploration.html",
-    "href": "exploration.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Data Exploration"
-    ]
-  },
-  {
-    "objectID": "exploration.html#title-2-header",
-    "href": "exploration.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Data Exploration"
-    ]
-  },
-  {
-    "objectID": "Story_Telling/project2.html",
-    "href": "Story_Telling/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Story Telling",
-      "Project 2"
-    ]
-  },
-  {
-    "objectID": "Story_Telling/project5.html",
-    "href": "Story_Telling/project5.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Story Telling",
-      "Project 5"
-    ]
-  },
-  {
-    "objectID": "Story_Telling/project4.html",
-    "href": "Story_Telling/project4.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Story Telling",
       "Project 4"
+    ]
+  },
+  {
+    "objectID": "ml.html",
+    "href": "ml.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Machine Learning"
+    ]
+  },
+  {
+    "objectID": "ml.html#title-2-header",
+    "href": "ml.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Machine Learning"
     ]
   },
   {
@@ -273,216 +568,14 @@
     ]
   },
   {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "Physicist, Mathematician, Cambridge professor.\n\nisaac@applesdofall.org | My wikipedia page\n\n\n\nStanding on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples.\n\n\n\n\n1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow\n\n\n\n\n2012 President, Royal Society, London, UK\nAssociate, French Academy of Science, Paris, France\n\n\n\n\n\n\n1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001\n\n\n\n\n1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
-  },
-  {
-    "objectID": "resume.html#currently",
-    "href": "resume.html#currently",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "Standing on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples."
-  },
-  {
-    "objectID": "resume.html#education",
-    "href": "resume.html#education",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow"
-  },
-  {
-    "objectID": "resume.html#awards",
-    "href": "resume.html#awards",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "2012 President, Royal Society, London, UK\nAssociate, French Academy of Science, Paris, France"
-  },
-  {
-    "objectID": "resume.html#publications",
-    "href": "resume.html#publications",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001"
-  },
-  {
-    "objectID": "resume.html#occupation",
-    "href": "resume.html#occupation",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
-  },
-  {
-    "objectID": "Machine_Learning/project4.html",
-    "href": "Machine_Learning/project4.html",
+    "objectID": "Story_Telling/project5.html",
+    "href": "Story_Telling/project5.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Machine Learning",
-      "Project 4"
-    ]
-  },
-  {
-    "objectID": "Machine_Learning/project1.html",
-    "href": "Machine_Learning/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Machine Learning",
-      "Project 1"
-    ]
-  },
-  {
-    "objectID": "Machine_Learning/project3.html",
-    "href": "Machine_Learning/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Machine Learning",
-      "Project 3"
-    ]
-  },
-  {
-    "objectID": "ml.html",
-    "href": "ml.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Machine Learning"
-    ]
-  },
-  {
-    "objectID": "ml.html#title-2-header",
-    "href": "ml.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Machine Learning"
-    ]
-  },
-  {
-    "objectID": "Cleansing_Exploration/project4.html",
-    "href": "Cleansing_Exploration/project4.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "Cleansing_Exploration/project1.html",
-    "href": "Cleansing_Exploration/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "Cleansing_Exploration/project3.html",
-    "href": "Cleansing_Exploration/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "Competition/project5.html",
-    "href": "Competition/project5.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Competition",
+      "Story Telling",
       "Project 5"
-    ]
-  },
-  {
-    "objectID": "Competition/project2.html",
-    "href": "Competition/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Competition",
-      "Project 2"
-    ]
-  },
-  {
-    "objectID": "Full_Stack/project4.html",
-    "href": "Full_Stack/project4.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Full Stack",
-      "Project 4"
-    ]
-  },
-  {
-    "objectID": "Full_Stack/project1.html",
-    "href": "Full_Stack/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Full Stack",
-      "Project 1"
-    ]
-  },
-  {
-    "objectID": "Full_Stack/project3.html",
-    "href": "Full_Stack/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Full Stack",
-      "Project 3"
-    ]
-  },
-  {
-    "objectID": "Cleansing_Projects/project5.html",
-    "href": "Cleansing_Projects/project5.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Data Cleansing",
-      "Project 5"
-    ]
-  },
-  {
-    "objectID": "Cleansing_Projects/project2.html",
-    "href": "Cleansing_Projects/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Data Cleansing",
-      "Project 2"
-    ]
-  },
-  {
-    "objectID": "full_stack.html",
-    "href": "full_stack.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Full Stack"
-    ]
-  },
-  {
-    "objectID": "full_stack.html#title-2-header",
-    "href": "full_stack.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Full Stack"
     ]
   }
 ]
