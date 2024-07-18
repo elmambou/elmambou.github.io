@@ -1,89 +1,85 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Elie Mambou's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Elie S Mambou
+Multilanguage Translation Manager, Full Stack Developer.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mam13003@byui.edu">mam13003@byui.edu</a>
+| <a href="http://linkedin.com/in/eliesilveremambou">My linkedin page</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Working for The Africa South Area, Church of Jesus Christ of latter-day Saints
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Training, developing capabilities among team members, Coordinating resolutions of issues, and balancing priorities.
+
+### Languages Spoken
+
+English, French, German, Spanish and Portuguese.
 
 
-### Research interests
+### Experience
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+`May 2020 - Present`
+Multilanguage Translation Manager, May 2020 - Present
 
+`January 20213 - Aprl 2020`
+Senior Accountant, January 2013 - April 2020
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`1987 - 1992`
+__Rural Institute of Development__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`1993 - 1995`
+__Faculty of Economic Science__
 
-- Sizar
+`2014 - 2019`
+__Brigham Young University Idaho, Rexburg USA,__
+_Bachelor of Science, Business Management, emphasis - Finance_
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+_Writing and Reasoning foundations;_
+_Marketing Management;_
+_Entrepreneurial Management;_
+_Organizational Effectiveness;_
+_Business & Leadership skills;_
+_Business Statistics;_
+_Production & Operation Management;_
+_Commercial Fundamentals;_
+_Financial and Managerial Accounting_
 
 
+`2021 - 2024`
+__Brigham Young University Idaho, Rexburg USA,__
+_Bachelor of Science, Applied Technology, emphasis - Web Development_
 
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+_Create dynamic webpages adhering to industry standards and best practices;_
+_Continuously acquire and implement new technologies and programming technique;_
+_Demonstrate well-developed problem-solving skills;_
+_Utilize Object-Oriented Programming principles;_
+_Demonstrate the ability to design and develop effective online solutions using current web technologies;_
+_Develop programs to achieve meaningful tasks across diverse domains_
 
 
-## Occupation
+## Skills
+_CSS, HTML, JavaScript, Python & SQL_
+_Proficient in Excel and Microsoft Office,_
+_Presentation Skills,_
+_Teamwork and Collaboration,_
+_Conflict Resolution & Problem solving,_
+_Communication & Organization_
 
-`1600`
-__Royal Mint__, London
 
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+## Hobbies
+Soccer, Reading, Gardening
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: May 2024 -->
