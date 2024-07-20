@@ -1,5 +1,5 @@
 ---
-title: "Client Report - PUERTO RICO TERRITORY EXPLORATION PROJECT]"
+title: "Client Report - PUERTO RICO TERRITORY EXPLORATION"
 subtitle: "Data Exploration 1"
 author: "Elie S MAMBOU"
 format:
