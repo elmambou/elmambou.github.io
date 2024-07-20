@@ -144,35 +144,35 @@
   {
     "objectID": "resume.html",
     "href": "resume.html",
-    "title": "Elie Mambou’s CV",
+    "title": "Elie S Mambou’s CV",
     "section": "",
     "text": "Multilanguage Translation Manager, Full Stack Developer.\n\nmam13003@byui.edu | My linkedin page\n\n\n\nWorking for The Africa South Area, Church of Jesus Christ of latter-day Saints\n\n\nTraining, developing capabilities among team members, Coordinating resolutions of issues, and balancing priorities.\n\n\n\nEnglish, French, German, Spanish and Portuguese.\n\n\n\nMay 2020 - Present Multilanguage Translation Manager, May 2020 - Present\nJanuary 20213 - Aprl 2020 Senior Accountant, January 2013 - April 2020\n\n\n\n\n1987 - 1992 Rural Institute of Development\n1993 - 1995 Faculty of Economic Science\n2014 - 2019 Brigham Young University Idaho, Rexburg USA, Bachelor of Science, Business Management, emphasis - Finance\nWriting and Reasoning foundations; Marketing Management; Entrepreneurial Management; Organizational Effectiveness; Business & Leadership skills; Business Statistics; Production & Operation Management; Commercial Fundamentals; Financial and Managerial Accounting\n2021 - 2024 Brigham Young University Idaho, Rexburg USA, Bachelor of Science, Applied Technology, emphasis - Web Development\nCreate dynamic webpages adhering to industry standards and best practices; Continuously acquire and implement new technologies and programming technique; Demonstrate well-developed problem-solving skills; Utilize Object-Oriented Programming principles; Demonstrate the ability to design and develop effective online solutions using current web technologies; Develop programs to achieve meaningful tasks across diverse domains\n\n\n\nCSS, HTML, JavaScript, Python & SQL Proficient in Excel and Microsoft Office, Presentation Skills, Teamwork and Collaboration, Conflict Resolution & Problem solving, Communication & Organization\n\n\n\nSoccer, Reading, Gardening"
   },
   {
     "objectID": "resume.html#currently",
     "href": "resume.html#currently",
-    "title": "Elie Mambou’s CV",
+    "title": "Elie S Mambou’s CV",
     "section": "",
     "text": "Working for The Africa South Area, Church of Jesus Christ of latter-day Saints\n\n\nTraining, developing capabilities among team members, Coordinating resolutions of issues, and balancing priorities.\n\n\n\nEnglish, French, German, Spanish and Portuguese.\n\n\n\nMay 2020 - Present Multilanguage Translation Manager, May 2020 - Present\nJanuary 20213 - Aprl 2020 Senior Accountant, January 2013 - April 2020"
   },
   {
     "objectID": "resume.html#education",
     "href": "resume.html#education",
-    "title": "Elie Mambou’s CV",
+    "title": "Elie S Mambou’s CV",
     "section": "",
     "text": "1987 - 1992 Rural Institute of Development\n1993 - 1995 Faculty of Economic Science\n2014 - 2019 Brigham Young University Idaho, Rexburg USA, Bachelor of Science, Business Management, emphasis - Finance\nWriting and Reasoning foundations; Marketing Management; Entrepreneurial Management; Organizational Effectiveness; Business & Leadership skills; Business Statistics; Production & Operation Management; Commercial Fundamentals; Financial and Managerial Accounting\n2021 - 2024 Brigham Young University Idaho, Rexburg USA, Bachelor of Science, Applied Technology, emphasis - Web Development\nCreate dynamic webpages adhering to industry standards and best practices; Continuously acquire and implement new technologies and programming technique; Demonstrate well-developed problem-solving skills; Utilize Object-Oriented Programming principles; Demonstrate the ability to design and develop effective online solutions using current web technologies; Develop programs to achieve meaningful tasks across diverse domains"
   },
   {
     "objectID": "resume.html#skills",
     "href": "resume.html#skills",
-    "title": "Elie Mambou’s CV",
+    "title": "Elie S Mambou’s CV",
     "section": "",
     "text": "CSS, HTML, JavaScript, Python & SQL Proficient in Excel and Microsoft Office, Presentation Skills, Teamwork and Collaboration, Conflict Resolution & Problem solving, Communication & Organization"
   },
   {
     "objectID": "resume.html#hobbies",
     "href": "resume.html#hobbies",
-    "title": "Elie Mambou’s CV",
+    "title": "Elie S Mambou’s CV",
     "section": "",
     "text": "Soccer, Reading, Gardening"
   },
@@ -256,17 +256,7 @@
     "href": "exploration.html",
     "title": "about me",
     "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Data Exploration"
-    ]
-  },
-  {
-    "objectID": "exploration.html#title-2-header",
-    "href": "exploration.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
+    "text": "Back to top",
     "crumbs": [
       "Data Exploration"
     ]
@@ -343,9 +333,72 @@
   {
     "objectID": "Cleansing_Exploration/project1.html",
     "href": "Cleansing_Exploration/project1.html",
-    "title": "Client Report - [Insert Project Title]",
+    "title": "Client Report - PUERTO RICO TERRITORY EXPLORATION PROJECT]",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
+    "text": "Our project aims to analyze the popularity trends of given names in Puerto Rico from 1998 to 2000. By leveraging machine learning techniques, we develop a model that predicts the popularity of a name based on historical data. This model can help sociologists and policymakers understand naming trends and their cultural significance. Discover how our data-driven approach provides insights into naming conventions in Puerto Rico.\n\n\nShow the code\n# Read Data\n\npuertoRico_territory = pd.read_csv(\"PuertoRico.csv\")"
+  },
+  {
+    "objectID": "Cleansing_Exploration/project1.html#elevator-pitch",
+    "href": "Cleansing_Exploration/project1.html#elevator-pitch",
+    "title": "Client Report - PUERTO RICO TERRITORY EXPLORATION PROJECT]",
+    "section": "",
+    "text": "Our project aims to analyze the popularity trends of given names in Puerto Rico from 1998 to 2000. By leveraging machine learning techniques, we develop a model that predicts the popularity of a name based on historical data. This model can help sociologists and policymakers understand naming trends and their cultural significance. Discover how our data-driven approach provides insights into naming conventions in Puerto Rico.\n\n\nShow the code\n# Read Data\n\npuertoRico_territory = pd.read_csv(\"PuertoRico.csv\")"
+  },
+  {
+    "objectID": "Cleansing_Exploration/project1.html#sampling-data",
+    "href": "Cleansing_Exploration/project1.html#sampling-data",
+    "title": "Client Report - PUERTO RICO TERRITORY EXPLORATION PROJECT]",
+    "section": "SAMPLING DATA",
+    "text": "SAMPLING DATA\n\n\nShow the code\n# Sample the data\nsampled_df = puertoRico_territory.sample(n=3000, random_state=42)\n\n# Filter for specific years\nfiltered_df = sampled_df[sampled_df['year'].isin([1998, 1999, 2000])]\n\n# Create a chart with Altair\nchart = alt.Chart(filtered_df).mark_bar().encode(\n    x='year:O',\n    y='count:Q',\n    color='name:N'\n).properties(title=\"Sampled Name count by Year\")\n\nchart.show()"
+  },
+  {
+    "objectID": "Cleansing_Exploration/project1.html#top-5-names-in-2010",
+    "href": "Cleansing_Exploration/project1.html#top-5-names-in-2010",
+    "title": "Client Report - PUERTO RICO TERRITORY EXPLORATION PROJECT]",
+    "section": "TOP 5 NAMES IN 2010",
+    "text": "TOP 5 NAMES IN 2010\n\n\nShow the code\n# Data preparation for top 5 names in 2010\n\n# Filter for the year 2010\nfiltered_2010 = puertoRico_territory[puertoRico_territory['year'] == 2010]\n\n# Group by name and calculate total counts\nname_freq_2010 = filtered_2010.groupby('name')['count'].sum().reset_index()\n\n# Get the top 5 names\ntop_5_names_2010 = name_freq_2010.nlargest(5, 'count')\n\n# Print the top 5 names\nprint(\"Top 5 names in 2010:\")\nprint(top_5_names_2010)\n\n\nTop 5 names in 2010:\n          name  count\n690       Luis    521\n99       Angel    511\n732        Mia    386\n364        Ian    379\n867  Sebastian    373"
+  },
+  {
+    "objectID": "Cleansing_Exploration/project1.html#visualisation-of-the-top-5-names-in-2010",
+    "href": "Cleansing_Exploration/project1.html#visualisation-of-the-top-5-names-in-2010",
+    "title": "Client Report - PUERTO RICO TERRITORY EXPLORATION PROJECT]",
+    "section": "VISUALISATION OF THE TOP 5 NAMES IN 2010",
+    "text": "VISUALISATION OF THE TOP 5 NAMES IN 2010\n\n\nShow the code\n# Visualization of the top 5 names in 2010\n\nchart_top_5_2010 = (\n    alt.Chart(top_5_names_2010)\n    .mark_bar()\n    .encode(x='count:Q', y=alt.Y('name:N', sort='-x'))\n    .properties(title='Top 5 Names in 2010')\n)\n\nchart_top_5_2010.show()"
+  },
+  {
+    "objectID": "Cleansing_Exploration/project1.html#top-10-female-names-in-2000-and-2005",
+    "href": "Cleansing_Exploration/project1.html#top-10-female-names-in-2000-and-2005",
+    "title": "Client Report - PUERTO RICO TERRITORY EXPLORATION PROJECT]",
+    "section": "Top 10 Female Names in 2000 and 2005",
+    "text": "Top 10 Female Names in 2000 and 2005\n\n\nShow the code\n# Data preparation for top 10 female names in 2000 and 2005\n\n# Filter for the years 2000 and 2005 and for female gender\nfiltered_2000_2005_female = puertoRico_territory[\n    (puertoRico_territory['year'].isin([2000, 2005])) & \n    (puertoRico_territory['gender'] == 'F')\n]\n\n# Group by year and name, and calculate total counts\nname_freq_2000_2005_female = (\n    filtered_2000_2005_female\n    .groupby(['year', 'name'])\n    .agg({'count': 'sum'})\n    .reset_index()\n)\n\n# Get the top 10 female names for each year\ntop_10_female_2000 = (\n    name_freq_2000_2005_female[name_freq_2000_2005_female['year'] == 2000]\n    .nlargest(10, 'count')\n)\ntop_10_female_2005 = (\n    name_freq_2000_2005_female[name_freq_2000_2005_female['year'] == 2005]\n    .nlargest(10, 'count')\n)\n\n# Print the top 10 female names for each year\nprint(\"Top 10 Female Names in 2000:\")\nprint(top_10_female_2000)\nprint(\"\\nTop 10 Female Names in 2005:\")\nprint(top_10_female_2005)\n\n\nTop 10 Female Names in 2000:\n     year       name  count\n546  2000      Paola    764\n37   2000    Alondra    551\n205  2000   Gabriela    461\n208  2000    Genesis    401\n52   2000     Andrea    351\n528  2000     Nicole    333\n8    2000    Adriana    316\n627  2000    Valeria    271\n604  2000  Stephanie    256\n501  2000    Natalia    251\n\nTop 10 Female Names in 2005:\n      year      name  count\n743   2005   Alondra    722\n892   2005  Gabriela    373\n1165  2005     Paola    367\n708   2005   Adriana    292\n717   2005    Alanis    267\n895   2005   Genesis    264\n757   2005    Andrea    263\n1227  2005   Valeria    253\n783   2005    Ariana    220\n748   2005    Amanda    208"
+  },
+  {
+    "objectID": "Cleansing_Exploration/project1.html#names-for-male-names-in-the-years-2000-and-2005",
+    "href": "Cleansing_Exploration/project1.html#names-for-male-names-in-the-years-2000-and-2005",
+    "title": "Client Report - PUERTO RICO TERRITORY EXPLORATION PROJECT]",
+    "section": "NAMES FOR MALE NAMES IN THE YEARS 2000 AND 2005",
+    "text": "NAMES FOR MALE NAMES IN THE YEARS 2000 AND 2005\n\n\nShow the code\n# Filtering for male names and the years 2000 and 2005\nfiltered_df = puertoRico_territory[(puertoRico_territory['year'].isin([2000, 2005])) & (puertoRico_territory['gender'] == 'M')]\n\n# Grouping by year and name, then summing the counts\nname_freq = (\n    filtered_df.groupby([\"year\", \"name\"]).agg({\"count\": \"sum\"}).reset_index()\n)\n\n# Getting the top 10 names for each year\ntop_names_2000 = name_freq[name_freq[\"year\"] == 2000].nlargest(10, \"count\")\ntop_names_2005 = name_freq[name_freq[\"year\"] == 2005].nlargest(10, \"count\")\n\n# Combining the data for both years\ntop_names_combined = pd.concat([top_names_2000, top_names_2005])\n\n# Creating a bar chart with Altair\nchart = (\n    alt.Chart(top_names_combined)\n    .mark_bar()\n    .encode(\n        x=alt.X('count:Q', title='Count'),\n        y=alt.Y('name:N', sort='-x', title='Name'),\n        color=alt.Color('year:N', title='Year'),\n        column=alt.Column('year:N', title='Year')\n    )\n    .properties(title=\"Top 10 Male Names in 2000 and 2005\")\n    .configure_axis(\n        labelFontSize=12,\n        titleFontSize=14\n    )\n    .configure_title(\n        fontSize=16\n    )\n)\n\nchart.show()"
+  },
+  {
+    "objectID": "Cleansing_Exploration/project1.html#filtering-for-specific-years",
+    "href": "Cleansing_Exploration/project1.html#filtering-for-specific-years",
+    "title": "Client Report - PUERTO RICO TERRITORY EXPLORATION PROJECT]",
+    "section": "FILTERING FOR SPECIFIC YEARS",
+    "text": "FILTERING FOR SPECIFIC YEARS\n\n\nShow the code\n# Filtering for specific years\nfiltered_df = puertoRico_territory[puertoRico_territory['year'].isin([2000, 2010])]\n\n# Grouping by year and name, then summing the counts\nname_freq = (\n    filtered_df.groupby([\"year\", \"name\"]).agg({\"count\": \"sum\"}).reset_index()\n)\n\n# Chart 1: Naming count by Year\nchart1 = (\n    alt.Chart(name_freq)\n    .mark_line()\n    .encode(\n        x=alt.X('year:O', title='Year'),\n        y=alt.Y('count:Q', title='Count'),\n        color=alt.Color('name:N', title='Name')\n    )\n    .properties(title=\"Name Count by Year (2000 and 2010)\")\n)\n\nchart1.show()\n\n# Chart 2: Top 10 Names in 2000 and 2010\ntop_names_2000 = name_freq[name_freq[\"year\"] == 2000].nlargest(10, \"count\")\ntop_names_2010 = name_freq[name_freq[\"year\"] == 2010].nlargest(10, \"count\")\n\n# Combining the data for both years\ntop_names_combined = pd.concat([top_names_2000, top_names_2010])\n\nchart2 = (\n    alt.Chart(top_names_combined)\n    .mark_bar()\n    .encode(\n        x=alt.X('count:Q', title='Count'),\n        y=alt.Y('name:N', sort='-x', title='Name'),\n        color=alt.Color('year:N', title='Year'),\n        column=alt.Column('year:N', title='Year')\n    )\n    .properties(title=\"Top 10 Names in 2000 and 2010\")\n)\n\nchart2.show()"
+  },
+  {
+    "objectID": "Cleansing_Exploration/project1.html#exploratory-data-analysis-eda-creating-2-charts-that-evaluate-potential-relationships-between-the-name-frequencies-and-the-years.__",
+    "href": "Cleansing_Exploration/project1.html#exploratory-data-analysis-eda-creating-2-charts-that-evaluate-potential-relationships-between-the-name-frequencies-and-the-years.__",
+    "title": "Client Report - PUERTO RICO TERRITORY EXPLORATION PROJECT]",
+    "section": "Exploratory Data Analysis (EDA): Creating 2 charts that evaluate potential relationships between the name frequencies and the years.__",
+    "text": "Exploratory Data Analysis (EDA): Creating 2 charts that evaluate potential relationships between the name frequencies and the years.__\n\n\nShow the code\n# Data preparation for charting\n# Filtering for the years you want to analyze\nfiltered_df = puertoRico_territory[puertoRico_territory['year'].isin([1998, 1999, 2000])]\n\n# Grouping by year and name, then summing the counts\nname_freq = (\n    filtered_df.groupby([\"year\", \"name\"]).agg({\"count\": \"sum\"}).reset_index()\n)\n\n# Chart 1: Naming Frequency Trends Over the Years\nchart1 = (\n    alt.Chart(name_freq)\n    .mark_line()\n    .encode(\n        x=alt.X('year:O', title='Year'),\n        y=alt.Y('count:Q', title='Frequency'),\n        color=alt.Color('name:N', title='Name'),\n        tooltip=['name:N', 'count:Q']\n    )\n    .properties(title=\"Name Frequency Trends Over the Years (1998, 1999, 2000)\")\n)\n\nchart1.show()\n\n# Chart 2: Top 10 Names for Each Year\n# Getting top 10 names for each year\ntop_names = (\n    name_freq.groupby(\"year\")\n    .apply(lambda x: x.nlargest(10, 'count'))\n    .reset_index(drop=True)\n)\n\nchart2 = (\n    alt.Chart(top_names)\n    .mark_bar()\n    .encode(\n        x=alt.X('count:Q', title='Frequency'),\n        y=alt.Y('name:N', sort='-x', title='Name'),\n        color=alt.Color('year:N', title='Year'),\n        column=alt.Column('year:N', title='Year'),\n        tooltip=['name:N', 'count:Q']\n    )\n    .properties(title=\"Top 10 Names by Year (1998, 1999, 2000)\")\n)\n\nchart2.show()"
+  },
+  {
+    "objectID": "Cleansing_Exploration/project1.html#filtering-for-the-years-1998-and-2000",
+    "href": "Cleansing_Exploration/project1.html#filtering-for-the-years-1998-and-2000",
+    "title": "Client Report - PUERTO RICO TERRITORY EXPLORATION PROJECT]",
+    "section": "FILTERING FOR THE YEARS 1998 AND 2000",
+    "text": "FILTERING FOR THE YEARS 1998 AND 2000\n\n\nShow the code\n# Filtering for the years 1998 and 2000\nfiltered_df = puertoRico_territory[puertoRico_territory[\"year\"].isin([1998, 2000])]\n\n# Grouping by year and name, then summing the counts\nname_freq = filtered_df.groupby([\"year\", \"name\"]).agg({\"count\": \"sum\"}).reset_index()\n\n# Chart 1: Naming Frequency Trends for 1998 and 2000\nchart1 = (\n    alt.Chart(name_freq)\n    .mark_line()\n    .encode(\n        x=alt.X(\"name:N\", title=\"Name\"),\n        y=alt.Y(\"count:Q\", title=\"Frequency\"),\n        color=alt.Color(\"year:N\", title=\"Year\"),\n        column=alt.Column(\"year:N\", title=\"Year\"),\n        tooltip=[\"name:N\", \"count:Q\"],\n    )\n    .properties(title=\"Name Frequency Trends for 1998 and 2000\")\n)\n\nchart1.show()\n\n# Chart 2: Top 10 Names for Each Year\n# Geting top 10 names for each year\ntop_names = (\n    name_freq.groupby(\"year\")\n    .apply(lambda x: x.nlargest(10, \"count\"))\n    .reset_index(drop=True)\n)\n\nchart2 = (\n    alt.Chart(top_names)\n    .mark_bar()\n    .encode(\n        x=alt.X(\"count:Q\", title=\"Frequency\"),\n        y=alt.Y(\"name:N\", sort=\"-x\", title=\"Name\"),\n        color=alt.Color(\"year:N\", title=\"Year\"),\n        column=alt.Column(\"year:N\", title=\"Year\"),\n        tooltip=[\"name:N\", \"count:Q\"],\n    )\n    .properties(title=\"Top 10 Names for 1998 and 2000\")\n)\n\nchart2.show()"
   },
   {
     "objectID": "cleansing.html",

@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Elie Mambou's CV
+title: Elie S Mambou's CV
 ---
 # Elie S Mambou
 Multilanguage Translation Manager, Full Stack Developer.
