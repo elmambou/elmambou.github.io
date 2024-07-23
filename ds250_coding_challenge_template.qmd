@@ -36,42 +36,37 @@ INSIGHT: THERE WERE MANY CHALLENGES IN THIS EXERCISE. i HOPE TO LEARN MORE WITH 
 
 
 
+
+## Question 2 #:
+
+### Calculate the mean after replacing the missing values with the standard deviation (2 decimal places):
+problem = pd.Series([np.nan, 18, 22, 45, 31, np.nan, 85, 38, 129, 8000, 22, 2])Recreate the following image with the flights dataLinks to an external site.
+
+
 ```{python}
-# Including and executing my code here
+import pandas as pd
+import numpy as np
 
-url = "https://raw.githubusercontent.com/byuidatascience/data4missing/master/data-raw/flights_missing/flights_missing.json"
-df = pd.read_json(url)
+# Given series with missing values
+problem = pd.Series([np.nan, 18, 22, 45, 31, np.nan, 85, 38, 129, 8000, 22, 2])
 
-# Check the structure of the data
-df.head()
+# Calculate the standard deviation of the non-missing values
+std_dev = problem.std()
+
+# Fill the missing values with the calculated standard deviation
+problem_filled = problem.fillna(std_dev)
+
+# Calculate the mean of the series after filling the missing values
+mean_filled = problem_filled.mean()
+
+# Round the mean to 2 decimal places
+mean_filled_rounded = round(mean_filled, 2)
+
+mean_filled_rounded
+
 
 ```
 
 
-## Question 1 #:
-
-### Recreate the following image with the flights dataLinks to an external site.
-
-
-```{python}
-# Given data for the bar chart
-data = {
-    'airport': ['ATL', 'ORD', 'DEN', 'SFO', 'SLC', 'SAN', 'IAD'],
-    'num_flights': [35000, 29000, 20000, 12500, 10000, 6500, 5500]
-}
-
-# Creating a DataFrame from the given data
-flights_per_airport = pd.DataFrame(data)
-
-# Visualize the data
-plt.figure(figsize=(12, 8))
-sns.barplot(x='airport', y='num_flights', data=flights_per_airport, palette="viridis")
-plt.title('Number of Flights per Airport')
-plt.xlabel('Airport Code')
-plt.ylabel('Number of Flights')
-plt.yticks(np.arange(0, 40001, 5000))
-plt.show()
-
-```
 
 
