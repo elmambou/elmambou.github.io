@@ -307,14 +307,14 @@
     "href": "ds250_coding_challenge_template.html",
     "title": "Coding Challenge",
     "section": "",
-    "text": "Show the code\n# Read in libraries\nimport pandas as pd\nimport numpy as np\nimport plotly.express as px\nShow the code\n# Read in the names data\nurl = \"https://github.com/byuidatascience/data4names/raw/master/data-raw/names_year/names_year.csv\"\nnames = pd.read_csv(url)"
+    "text": "Show the code\n# Read in libraries\nimport pandas as pd\nimport numpy as np\nimport matplotlib.pyplot as plt\nimport seaborn as sns\nINSIGHT: THERE WERE MANY CHALLENGES IN THIS EXERCISE. i HOPE TO LEARN MORE WITH TIME.\nShow the code\n# Including and executing my code here\n\nurl = \"https://raw.githubusercontent.com/byuidatascience/data4missing/master/data-raw/flights_missing/flights_missing.json\"\ndf = pd.read_json(url)\n\n# Check the structure of the data\ndf.head()\n\n\n\n\n\n\n\n\n\nairport_code\nairport_name\nmonth\nyear\nnum_of_flights_total\nnum_of_delays_carrier\nnum_of_delays_late_aircraft\nnum_of_delays_nas\nnum_of_delays_security\nnum_of_delays_weather\nnum_of_delays_total\nminutes_delayed_carrier\nminutes_delayed_late_aircraft\nminutes_delayed_nas\nminutes_delayed_security\nminutes_delayed_weather\nminutes_delayed_total\n\n\n\n\n0\nATL\nAtlanta, GA: Hartsfield-Jackson Atlanta Intern...\nJanuary\n2005.0\n35048\n1500+\n-999\n4598\n10\n448\n8355\n116423.0\n104415\n207467.0\n297\n36931\n465533\n\n\n1\nDEN\nDenver, CO: Denver International\nJanuary\n2005.0\n12687\n1041\n928\n935\n11\n233\n3153\n53537.0\n70301\n36817.0\n363\n21779\n182797\n\n\n2\nIAD\n\nJanuary\n2005.0\n12381\n414\n1058\n895\n4\n61\n2430\nNaN\n70919\n35660.0\n208\n4497\n134881\n\n\n3\nORD\nChicago, IL: Chicago O'Hare International\nJanuary\n2005.0\n28194\n1197\n2255\n5415\n5\n306\n9178\n88691.0\n160811\n364382.0\n151\n24859\n638894\n\n\n4\nSAN\nSan Diego, CA: San Diego International\nJanuary\n2005.0\n7283\n572\n680\n638\n7\n56\n1952\n27436.0\n38445\n21127.0\n218\n4326\n91552"
   },
   {
-    "objectID": "ds250_coding_challenge_template.html#question",
-    "href": "ds250_coding_challenge_template.html#question",
+    "objectID": "ds250_coding_challenge_template.html#question-1",
+    "href": "ds250_coding_challenge_template.html#question-1",
     "title": "Coding Challenge",
-    "section": "Question #:",
-    "text": "Question #:\n\n[Replace with the text from question #]\n\n\nShow the code\n# Question # Code\n\n\nWhen done with a question, render it to a .html file and upload it for the question. Either re-downolad this template or file -&gt; save as -&gt; a new file name and then replace the text in the question with the new question text."
+    "section": "Question 1 #:",
+    "text": "Question 1 #:\n\nRecreate the following image with the flights dataLinks to an external site.\n\n\nShow the code\n# Given data for the bar chart\ndata = {\n    'airport': ['ATL', 'ORD', 'DEN', 'SFO', 'SLC', 'SAN', 'IAD'],\n    'num_flights': [35000, 29000, 20000, 12500, 10000, 6500, 5500]\n}\n\n# Creating a DataFrame from the given data\nflights_per_airport = pd.DataFrame(data)\n\n# Visualize the data\nplt.figure(figsize=(12, 8))\nsns.barplot(x='airport', y='num_flights', data=flights_per_airport, palette=\"viridis\")\nplt.title('Number of Flights per Airport')\nplt.xlabel('Airport Code')\nplt.ylabel('Number of Flights')\nplt.yticks(np.arange(0, 40001, 5000))\nplt.show()\n\n\n/tmp/ipykernel_2300/655068380.py:12: FutureWarning:\n\n\n\nPassing `palette` without assigning `hue` is deprecated and will be removed in v0.14.0. Assign the `x` variable to `hue` and set `legend=False` for the same effect."
   },
   {
     "objectID": "Cleansing_Exploration/project5.html",
