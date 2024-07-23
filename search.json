@@ -1,35 +1,113 @@
 [
   {
-    "objectID": "Competition/project5.html",
-    "href": "Competition/project5.html",
-    "title": "Client Report - [Insert Project Title]",
+    "objectID": "cleansing.html",
+    "href": "cleansing.html",
+    "title": "about me",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "text": "MarkDown Basics",
     "crumbs": [
-      "Competition",
-      "Project 5"
+      "Data Cleansing"
     ]
   },
   {
-    "objectID": "Competition/project1.html",
-    "href": "Competition/project1.html",
-    "title": "Client Report - [Insert Project Title]",
+    "objectID": "cleansing.html#title-2-header",
+    "href": "cleansing.html#title-2-header",
+    "title": "about me",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "text": "MarkDown Basics",
     "crumbs": [
-      "Competition",
-      "Project 1"
+      "Data Cleansing"
     ]
   },
   {
-    "objectID": "Competition/project3.html",
-    "href": "Competition/project3.html",
+    "objectID": "Cleansing_Exploration/project2.html",
+    "href": "Cleansing_Exploration/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Cleansing_Exploration/project4.html",
+    "href": "Cleansing_Exploration/project4.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "full_stack.html",
+    "href": "full_stack.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Full Stack"
+    ]
+  },
+  {
+    "objectID": "full_stack.html#title-2-header",
+    "href": "full_stack.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Full Stack"
+    ]
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Elie S Mambou’s CV",
+    "section": "",
+    "text": "Multilanguage Translation Manager, Full Stack Developer.\n\nmam13003@byui.edu | My linkedin page\n\n\n\nWorking for The Africa South Area, Church of Jesus Christ of latter-day Saints\n\n\nTraining, developing capabilities among team members, Coordinating resolutions of issues, and balancing priorities.\n\n\n\nEnglish, French, German, Spanish and Portuguese.\n\n\n\nMay 2020 - Present Multilanguage Translation Manager, May 2020 - Present\nJanuary 20213 - Aprl 2020 Senior Accountant, January 2013 - April 2020\n\n\n\n\n1987 - 1992 Rural Institute of Development\n1993 - 1995 Faculty of Economic Science\n2014 - 2019 Brigham Young University Idaho, Rexburg USA, Bachelor of Science, Business Management, emphasis - Finance\nWriting and Reasoning foundations; Marketing Management; Entrepreneurial Management; Organizational Effectiveness; Business & Leadership skills; Business Statistics; Production & Operation Management; Commercial Fundamentals; Financial and Managerial Accounting\n2021 - 2024 Brigham Young University Idaho, Rexburg USA, Bachelor of Science, Applied Technology, emphasis - Web Development\nCreate dynamic webpages adhering to industry standards and best practices; Continuously acquire and implement new technologies and programming technique; Demonstrate well-developed problem-solving skills; Utilize Object-Oriented Programming principles; Demonstrate the ability to design and develop effective online solutions using current web technologies; Develop programs to achieve meaningful tasks across diverse domains\n\n\n\nCSS, HTML, JavaScript, Python & SQL Proficient in Excel and Microsoft Office, Presentation Skills, Teamwork and Collaboration, Conflict Resolution & Problem solving, Communication & Organization\n\n\n\nSoccer, Reading, Gardening"
+  },
+  {
+    "objectID": "resume.html#currently",
+    "href": "resume.html#currently",
+    "title": "Elie S Mambou’s CV",
+    "section": "",
+    "text": "Working for The Africa South Area, Church of Jesus Christ of latter-day Saints\n\n\nTraining, developing capabilities among team members, Coordinating resolutions of issues, and balancing priorities.\n\n\n\nEnglish, French, German, Spanish and Portuguese.\n\n\n\nMay 2020 - Present Multilanguage Translation Manager, May 2020 - Present\nJanuary 20213 - Aprl 2020 Senior Accountant, January 2013 - April 2020"
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Elie S Mambou’s CV",
+    "section": "",
+    "text": "1987 - 1992 Rural Institute of Development\n1993 - 1995 Faculty of Economic Science\n2014 - 2019 Brigham Young University Idaho, Rexburg USA, Bachelor of Science, Business Management, emphasis - Finance\nWriting and Reasoning foundations; Marketing Management; Entrepreneurial Management; Organizational Effectiveness; Business & Leadership skills; Business Statistics; Production & Operation Management; Commercial Fundamentals; Financial and Managerial Accounting\n2021 - 2024 Brigham Young University Idaho, Rexburg USA, Bachelor of Science, Applied Technology, emphasis - Web Development\nCreate dynamic webpages adhering to industry standards and best practices; Continuously acquire and implement new technologies and programming technique; Demonstrate well-developed problem-solving skills; Utilize Object-Oriented Programming principles; Demonstrate the ability to design and develop effective online solutions using current web technologies; Develop programs to achieve meaningful tasks across diverse domains"
+  },
+  {
+    "objectID": "resume.html#skills",
+    "href": "resume.html#skills",
+    "title": "Elie S Mambou’s CV",
+    "section": "",
+    "text": "CSS, HTML, JavaScript, Python & SQL Proficient in Excel and Microsoft Office, Presentation Skills, Teamwork and Collaboration, Conflict Resolution & Problem solving, Communication & Organization"
+  },
+  {
+    "objectID": "resume.html#hobbies",
+    "href": "resume.html#hobbies",
+    "title": "Elie S Mambou’s CV",
+    "section": "",
+    "text": "Soccer, Reading, Gardening"
+  },
+  {
+    "objectID": "Full_Stack/project2.html",
+    "href": "Full_Stack/project2.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Competition",
-      "Project 3"
+      "Full Stack",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "Full_Stack/project4.html",
+    "href": "Full_Stack/project4.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Full Stack",
+      "Project 4"
     ]
   },
   {
@@ -153,14 +231,183 @@
     ]
   },
   {
-    "objectID": "Machine_Learning/project2.html",
-    "href": "Machine_Learning/project2.html",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "index.html#title-2-header",
+    "href": "index.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "Story_Telling/project2.html",
+    "href": "Story_Telling/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Story Telling",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "Story_Telling/project4.html",
+    "href": "Story_Telling/project4.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Story Telling",
+      "Project 4"
+    ]
+  },
+  {
+    "objectID": "ds250_coding_challenge_template.html",
+    "href": "ds250_coding_challenge_template.html",
+    "title": "Coding Challenge",
+    "section": "",
+    "text": "Show the code\n# Read in libraries\nimport pandas as pd\nimport numpy as np\nimport matplotlib.pyplot as plt\nimport seaborn as sns\nINSIGHT: THERE WERE MANY CHALLENGES IN THIS EXERCISE. i HOPE TO LEARN MORE WITH TIME."
+  },
+  {
+    "objectID": "ds250_coding_challenge_template.html#question-2",
+    "href": "ds250_coding_challenge_template.html#question-2",
+    "title": "Coding Challenge",
+    "section": "Question 2 #:",
+    "text": "Question 2 #:\n\nCalculate the mean after replacing the missing values with the standard deviation (2 decimal places):\nproblem = pd.Series([np.nan, 18, 22, 45, 31, np.nan, 85, 38, 129, 8000, 22, 2])Recreate the following image with the flights dataLinks to an external site.\n\n\nShow the code\nimport pandas as pd\nimport numpy as np\n\n# Given series with missing values\nproblem = pd.Series([np.nan, 18, 22, 45, 31, np.nan, 85, 38, 129, 8000, 22, 2])\n\n# Calculate the standard deviation of the non-missing values\nstd_dev = problem.std()\n\n# Fill the missing values with the calculated standard deviation\nproblem_filled = problem.fillna(std_dev)\n\n# Calculate the mean of the series after filling the missing values\nmean_filled = problem_filled.mean()\n\n# Round the mean to 2 decimal places\nmean_filled_rounded = round(mean_filled, 2)\n\nmean_filled_rounded\n\n\nnp.float64(1118.72)"
+  },
+  {
+    "objectID": "Competition/project2.html",
+    "href": "Competition/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Competition",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "Competition/project4.html",
+    "href": "Competition/project4.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Competition",
+      "Project 4"
+    ]
+  },
+  {
+    "objectID": "Machine_Learning/project1.html",
+    "href": "Machine_Learning/project1.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
       "Machine Learning",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Machine_Learning/project3.html",
+    "href": "Machine_Learning/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Machine Learning",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Machine_Learning/project5.html",
+    "href": "Machine_Learning/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Machine Learning",
+      "Project 5"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project1.html",
+    "href": "Cleansing_Projects/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Data Cleansing",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project3.html",
+    "href": "Cleansing_Projects/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Data Cleansing",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project5.html",
+    "href": "Cleansing_Projects/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Data Cleansing",
+      "Project 5"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project4.html",
+    "href": "Cleansing_Projects/project4.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Data Cleansing",
+      "Project 4"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project2.html",
+    "href": "Cleansing_Projects/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Data Cleansing",
       "Project 2"
+    ]
+  },
+  {
+    "objectID": "ml.html",
+    "href": "ml.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Machine Learning"
+    ]
+  },
+  {
+    "objectID": "ml.html#title-2-header",
+    "href": "ml.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Machine Learning"
     ]
   },
   {
@@ -172,6 +419,83 @@
     "crumbs": [
       "Machine Learning",
       "Project 4"
+    ]
+  },
+  {
+    "objectID": "Machine_Learning/project2.html",
+    "href": "Machine_Learning/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Machine Learning",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "Competition/project5.html",
+    "href": "Competition/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Competition",
+      "Project 5"
+    ]
+  },
+  {
+    "objectID": "Competition/project3.html",
+    "href": "Competition/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Competition",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Competition/project1.html",
+    "href": "Competition/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Competition",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Story_Telling/project5.html",
+    "href": "Story_Telling/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Story Telling",
+      "Project 5"
+    ]
+  },
+  {
+    "objectID": "Story_Telling/project3.html",
+    "href": "Story_Telling/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Story Telling",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Story_Telling/project1.html",
+    "href": "Story_Telling/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Story Telling",
+      "Project 1"
     ]
   },
   {
@@ -206,17 +530,6 @@
     ]
   },
   {
-    "objectID": "Full_Stack/project1.html",
-    "href": "Full_Stack/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Full Stack",
-      "Project 1"
-    ]
-  },
-  {
     "objectID": "Full_Stack/project3.html",
     "href": "Full_Stack/project3.html",
     "title": "Client Report - [Insert Project Title]",
@@ -228,237 +541,14 @@
     ]
   },
   {
-    "objectID": "full_stack.html",
-    "href": "full_stack.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Full Stack"
-    ]
-  },
-  {
-    "objectID": "full_stack.html#title-2-header",
-    "href": "full_stack.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Full Stack"
-    ]
-  },
-  {
-    "objectID": "Story_Telling/project2.html",
-    "href": "Story_Telling/project2.html",
+    "objectID": "Full_Stack/project1.html",
+    "href": "Full_Stack/project1.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Story Telling",
-      "Project 2"
-    ]
-  },
-  {
-    "objectID": "Story_Telling/project4.html",
-    "href": "Story_Telling/project4.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Story Telling",
-      "Project 4"
-    ]
-  },
-  {
-    "objectID": "Cleansing_Projects/project5.html",
-    "href": "Cleansing_Projects/project5.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Data Cleansing",
-      "Project 5"
-    ]
-  },
-  {
-    "objectID": "Cleansing_Projects/project1.html",
-    "href": "Cleansing_Projects/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Data Cleansing",
+      "Full Stack",
       "Project 1"
-    ]
-  },
-  {
-    "objectID": "Cleansing_Projects/project3.html",
-    "href": "Cleansing_Projects/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Data Cleansing",
-      "Project 3"
-    ]
-  },
-  {
-    "objectID": "ds250_coding_challenge_template.html",
-    "href": "ds250_coding_challenge_template.html",
-    "title": "Coding Challenge",
-    "section": "",
-    "text": "Show the code\n# Read in libraries\nimport pandas as pd\nimport numpy as np\nimport matplotlib.pyplot as plt\nimport seaborn as sns\nINSIGHT: THERE WERE MANY CHALLENGES IN THIS EXERCISE. i HOPE TO LEARN MORE WITH TIME.\nShow the code\n# Including and executing my code here\n\nurl = \"https://raw.githubusercontent.com/byuidatascience/data4missing/master/data-raw/flights_missing/flights_missing.json\"\ndf = pd.read_json(url)\n\n# Check the structure of the data\ndf.head()\n\n\n\n\n\n\n\n\n\nairport_code\nairport_name\nmonth\nyear\nnum_of_flights_total\nnum_of_delays_carrier\nnum_of_delays_late_aircraft\nnum_of_delays_nas\nnum_of_delays_security\nnum_of_delays_weather\nnum_of_delays_total\nminutes_delayed_carrier\nminutes_delayed_late_aircraft\nminutes_delayed_nas\nminutes_delayed_security\nminutes_delayed_weather\nminutes_delayed_total\n\n\n\n\n0\nATL\nAtlanta, GA: Hartsfield-Jackson Atlanta Intern...\nJanuary\n2005.0\n35048\n1500+\n-999\n4598\n10\n448\n8355\n116423.0\n104415\n207467.0\n297\n36931\n465533\n\n\n1\nDEN\nDenver, CO: Denver International\nJanuary\n2005.0\n12687\n1041\n928\n935\n11\n233\n3153\n53537.0\n70301\n36817.0\n363\n21779\n182797\n\n\n2\nIAD\n\nJanuary\n2005.0\n12381\n414\n1058\n895\n4\n61\n2430\nNaN\n70919\n35660.0\n208\n4497\n134881\n\n\n3\nORD\nChicago, IL: Chicago O'Hare International\nJanuary\n2005.0\n28194\n1197\n2255\n5415\n5\n306\n9178\n88691.0\n160811\n364382.0\n151\n24859\n638894\n\n\n4\nSAN\nSan Diego, CA: San Diego International\nJanuary\n2005.0\n7283\n572\n680\n638\n7\n56\n1952\n27436.0\n38445\n21127.0\n218\n4326\n91552"
-  },
-  {
-    "objectID": "ds250_coding_challenge_template.html#question-1",
-    "href": "ds250_coding_challenge_template.html#question-1",
-    "title": "Coding Challenge",
-    "section": "Question 1 #:",
-    "text": "Question 1 #:\n\nRecreate the following image with the flights dataLinks to an external site.\n\n\nShow the code\n# Given data for the bar chart\ndata = {\n    'airport': ['ATL', 'ORD', 'DEN', 'SFO', 'SLC', 'SAN', 'IAD'],\n    'num_flights': [35000, 29000, 20000, 12500, 10000, 6500, 5500]\n}\n\n# Creating a DataFrame from the given data\nflights_per_airport = pd.DataFrame(data)\n\n# Visualize the data\nplt.figure(figsize=(12, 8))\nsns.barplot(x='airport', y='num_flights', data=flights_per_airport, palette=\"viridis\")\nplt.title('Number of Flights per Airport')\nplt.xlabel('Airport Code')\nplt.ylabel('Number of Flights')\nplt.yticks(np.arange(0, 40001, 5000))\nplt.show()\n\n\n/tmp/ipykernel_2300/655068380.py:12: FutureWarning:\n\n\n\nPassing `palette` without assigning `hue` is deprecated and will be removed in v0.14.0. Assign the `x` variable to `hue` and set `legend=False` for the same effect."
-  },
-  {
-    "objectID": "Cleansing_Exploration/project5.html",
-    "href": "Cleansing_Exploration/project5.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "Cleansing_Exploration/project1.html",
-    "href": "Cleansing_Exploration/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "Cleansing_Exploration/project3.html",
-    "href": "Cleansing_Exploration/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "Cleansing_Exploration/project4.html",
-    "href": "Cleansing_Exploration/project4.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "Cleansing_Exploration/project2.html",
-    "href": "Cleansing_Exploration/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "cleansing.html",
-    "href": "cleansing.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Data Cleansing"
-    ]
-  },
-  {
-    "objectID": "cleansing.html#title-2-header",
-    "href": "cleansing.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Data Cleansing"
-    ]
-  },
-  {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "Elie S Mambou’s CV",
-    "section": "",
-    "text": "Multilanguage Translation Manager, Full Stack Developer.\n\nmam13003@byui.edu | My linkedin page\n\n\n\nWorking for The Africa South Area, Church of Jesus Christ of latter-day Saints\n\n\nTraining, developing capabilities among team members, Coordinating resolutions of issues, and balancing priorities.\n\n\n\nEnglish, French, German, Spanish and Portuguese.\n\n\n\nMay 2020 - Present Multilanguage Translation Manager, May 2020 - Present\nJanuary 20213 - Aprl 2020 Senior Accountant, January 2013 - April 2020\n\n\n\n\n1987 - 1992 Rural Institute of Development\n1993 - 1995 Faculty of Economic Science\n2014 - 2019 Brigham Young University Idaho, Rexburg USA, Bachelor of Science, Business Management, emphasis - Finance\nWriting and Reasoning foundations; Marketing Management; Entrepreneurial Management; Organizational Effectiveness; Business & Leadership skills; Business Statistics; Production & Operation Management; Commercial Fundamentals; Financial and Managerial Accounting\n2021 - 2024 Brigham Young University Idaho, Rexburg USA, Bachelor of Science, Applied Technology, emphasis - Web Development\nCreate dynamic webpages adhering to industry standards and best practices; Continuously acquire and implement new technologies and programming technique; Demonstrate well-developed problem-solving skills; Utilize Object-Oriented Programming principles; Demonstrate the ability to design and develop effective online solutions using current web technologies; Develop programs to achieve meaningful tasks across diverse domains\n\n\n\nCSS, HTML, JavaScript, Python & SQL Proficient in Excel and Microsoft Office, Presentation Skills, Teamwork and Collaboration, Conflict Resolution & Problem solving, Communication & Organization\n\n\n\nSoccer, Reading, Gardening"
-  },
-  {
-    "objectID": "resume.html#currently",
-    "href": "resume.html#currently",
-    "title": "Elie S Mambou’s CV",
-    "section": "",
-    "text": "Working for The Africa South Area, Church of Jesus Christ of latter-day Saints\n\n\nTraining, developing capabilities among team members, Coordinating resolutions of issues, and balancing priorities.\n\n\n\nEnglish, French, German, Spanish and Portuguese.\n\n\n\nMay 2020 - Present Multilanguage Translation Manager, May 2020 - Present\nJanuary 20213 - Aprl 2020 Senior Accountant, January 2013 - April 2020"
-  },
-  {
-    "objectID": "resume.html#education",
-    "href": "resume.html#education",
-    "title": "Elie S Mambou’s CV",
-    "section": "",
-    "text": "1987 - 1992 Rural Institute of Development\n1993 - 1995 Faculty of Economic Science\n2014 - 2019 Brigham Young University Idaho, Rexburg USA, Bachelor of Science, Business Management, emphasis - Finance\nWriting and Reasoning foundations; Marketing Management; Entrepreneurial Management; Organizational Effectiveness; Business & Leadership skills; Business Statistics; Production & Operation Management; Commercial Fundamentals; Financial and Managerial Accounting\n2021 - 2024 Brigham Young University Idaho, Rexburg USA, Bachelor of Science, Applied Technology, emphasis - Web Development\nCreate dynamic webpages adhering to industry standards and best practices; Continuously acquire and implement new technologies and programming technique; Demonstrate well-developed problem-solving skills; Utilize Object-Oriented Programming principles; Demonstrate the ability to design and develop effective online solutions using current web technologies; Develop programs to achieve meaningful tasks across diverse domains"
-  },
-  {
-    "objectID": "resume.html#skills",
-    "href": "resume.html#skills",
-    "title": "Elie S Mambou’s CV",
-    "section": "",
-    "text": "CSS, HTML, JavaScript, Python & SQL Proficient in Excel and Microsoft Office, Presentation Skills, Teamwork and Collaboration, Conflict Resolution & Problem solving, Communication & Organization"
-  },
-  {
-    "objectID": "resume.html#hobbies",
-    "href": "resume.html#hobbies",
-    "title": "Elie S Mambou’s CV",
-    "section": "",
-    "text": "Soccer, Reading, Gardening"
-  },
-  {
-    "objectID": "Cleansing_Projects/project4.html",
-    "href": "Cleansing_Projects/project4.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Data Cleansing",
-      "Project 4"
-    ]
-  },
-  {
-    "objectID": "Cleansing_Projects/project2.html",
-    "href": "Cleansing_Projects/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Data Cleansing",
-      "Project 2"
-    ]
-  },
-  {
-    "objectID": "Story_Telling/project3.html",
-    "href": "Story_Telling/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Story Telling",
-      "Project 3"
-    ]
-  },
-  {
-    "objectID": "Story_Telling/project1.html",
-    "href": "Story_Telling/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Story Telling",
-      "Project 1"
-    ]
-  },
-  {
-    "objectID": "Story_Telling/project5.html",
-    "href": "Story_Telling/project5.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Story Telling",
-      "Project 5"
     ]
   },
   {
@@ -482,114 +572,24 @@
     ]
   },
   {
-    "objectID": "Full_Stack/project4.html",
-    "href": "Full_Stack/project4.html",
+    "objectID": "Cleansing_Exploration/project5.html",
+    "href": "Cleansing_Exploration/project5.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Full Stack",
-      "Project 4"
-    ]
+    "text": "Paste in a template\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "Full_Stack/project2.html",
-    "href": "Full_Stack/project2.html",
+    "objectID": "Cleansing_Exploration/project3.html",
+    "href": "Cleansing_Exploration/project3.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Full Stack",
-      "Project 2"
-    ]
+    "text": "Paste in a template\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "ml.html",
-    "href": "ml.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Machine Learning"
-    ]
-  },
-  {
-    "objectID": "ml.html#title-2-header",
-    "href": "ml.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Machine Learning"
-    ]
-  },
-  {
-    "objectID": "Machine_Learning/project3.html",
-    "href": "Machine_Learning/project3.html",
+    "objectID": "Cleansing_Exploration/project1.html",
+    "href": "Cleansing_Exploration/project1.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Machine Learning",
-      "Project 3"
-    ]
-  },
-  {
-    "objectID": "Machine_Learning/project1.html",
-    "href": "Machine_Learning/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Machine Learning",
-      "Project 1"
-    ]
-  },
-  {
-    "objectID": "Machine_Learning/project5.html",
-    "href": "Machine_Learning/project5.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Machine Learning",
-      "Project 5"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "index.html#title-2-header",
-    "href": "index.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "Competition/project4.html",
-    "href": "Competition/project4.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Competition",
-      "Project 4"
-    ]
-  },
-  {
-    "objectID": "Competition/project2.html",
-    "href": "Competition/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Competition",
-      "Project 2"
-    ]
+    "text": "Paste in a template\n\n\n\n\n Back to top"
   }
 ]
