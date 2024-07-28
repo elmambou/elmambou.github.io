@@ -1,0 +1,115 @@
+---
+title: "Coding Challenge"
+subtitle: "Course DS 250"
+author: "Elie Silvere Mambou"
+format:
+  html:
+    self-contained: true
+    page-layout: full
+    title-block-banner: true
+    toc: true
+    toc-depth: 3
+    toc-location: body
+    number-sections: false
+    html-math-method: katex
+    code-fold: true
+    code-summary: "Show the code"
+    code-overflow: wrap
+    code-copy: hover
+    code-tools:
+        source: false
+        toggle: true
+        caption: See code
+    
+---
+
+
+```{python}
+# Read in libraries
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+from sklearn.model_selection import train_test_split
+from sklearn.ensemble import GradientBoostingClassifier
+from sklearn import metrics
+```
+
+
+
+## Question 4 #:
+
+_ Using the flight dataLinks to an external site., complete the following:
+_Create training and test data using `train_test_split` with the following arguments; `test_size = .33` and `random_state = 1936`._
+_Use `GradientBoostingClassifier()` to build a machine learning model._
+_Report your accuracy score and confusion matrix._
+
+
+
+
+
+```{python}
+# Read in the flights data
+url = "https://raw.githubusercontent.com/byuidatascience/data4missing/master/data-raw/flights_missing/flights_missing.json"
+df = pd.read_json(url)
+```
+
+
+
+
+```{python}
+# Display the first few rows and column names to understand the data structure
+print(df.head())
+print(df.columns)
+
+# Drop rows with missing values for simplicity (you may handle missing data differently)
+df = df.dropna()
+
+# Select features and target variable
+# Based on the data, let's assume 'num_of_delays_total' as the target variable
+X = df.drop('num_of_delays_total', axis=1)
+y = df['num_of_delays_total']
+
+# Convert categorical columns to dummy variables
+X = pd.get_dummies(X, drop_first=True)
+
+# Create training and test data
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.33, random_state=1936)
+
+# Build a Gradient Boosting Classifier model
+model = GradientBoostingClassifier()
+model.fit(X_train, y_train)
+
+# Predict the test data
+y_pred = model.predict(X_test)
+
+# Report accuracy score
+accuracy = metrics.accuracy_score(y_test, y_pred)
+print(f'Accuracy: {accuracy:.2f}')
+
+# Report confusion matrix
+conf_matrix = metrics.confusion_matrix(y_test, y_pred)
+print('Confusion Matrix:')
+print(conf_matrix)
+
+# Plot confusion matrix
+plt.figure(figsize=(10, 7))
+sns.heatmap(conf_matrix, annot=True, fmt='d', cmap='Blues')
+plt.xlabel('Predicted')
+plt.ylabel('Actual')
+plt.title('Confusion Matrix')
+plt.show()
+```
+
+
+
+
+
+
+
+
+
+
+
+
+When done with a question, render it to a `.html` file and upload it for the question. Either re-downolad this template or file -> save as -> a new file name and then replace the text in the question with the new question text.

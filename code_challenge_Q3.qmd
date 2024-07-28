@@ -1,0 +1,83 @@
+---
+title: "Coding Challenge"
+subtitle: "Course DS 250"
+author: "Elie Silvere Mambou"
+format:
+  html:
+    self-contained: true
+    page-layout: full
+    title-block-banner: true
+    toc: true
+    toc-depth: 3
+    toc-location: body
+    number-sections: false
+    html-math-method: katex
+    code-fold: true
+    code-summary: "Show the code"
+    code-overflow: wrap
+    code-copy: hover
+    code-tools:
+        source: false
+        toggle: true
+        caption: See code
+    
+---
+
+```{python}
+# Read in libraries
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+```
+
+
+
+## Question 3 #:
+
+### Manually convert the `location` column of the Star Wars dataLinks to an external site. to numeric values and display a histogram of the values:
+
+
+
+
+```{python}
+# Read in clean dataset
+url = "http://byuistats.github.io/CSE250-Course/data/clean_starwars.csv"
+sw_dat = pd.read_csv(url)
+
+# Display the column names to identify the correct names for the location column
+print(sw_dat.columns)
+```
+
+
+
+```{python}
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+# Read in the dataset
+url = "http://byuistats.github.io/CSE250-Course/data/clean_starwars.csv"
+sw_dat = pd.read_csv(url)
+
+# Identify the location columns
+location_columns = [col for col in sw_dat.columns if col.startswith('location_(census_region)_')]
+
+# Create a dictionary to map location names to numeric values
+location_mapping = {location: idx for idx, location in enumerate(location_columns)}
+
+# Create a new column to store the numeric values
+sw_dat['location_numeric'] = sw_dat[location_columns].idxmax(axis=1).map(location_mapping)
+
+# Display a histogram of the numeric values
+plt.figure(figsize=(10, 6))
+sns.histplot(sw_dat['location_numeric'], bins=len(location_columns), kde=False)
+plt.xlabel('Location Numeric Value')
+plt.ylabel('Frequency')
+plt.title('Histogram of Location Numeric Values')
+plt.show()
+
+```
+
+
