@@ -1,248 +1,125 @@
 [
   {
-    "objectID": "cleansing.html",
-    "href": "cleansing.html",
-    "title": "about me",
+    "objectID": "code_challenge_Q1.html",
+    "href": "code_challenge_Q1.html",
+    "title": "Coding Challenge",
     "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Data Cleansing"
-    ]
+    "text": "Show the code\n# Read in libraries\nimport pandas as pd\nimport numpy as np\nimport matplotlib.pyplot as plt\nimport seaborn as sns\nINSIGHT: THERE WERE MANY CHALLENGES IN THIS EXERCISE. i HOPE TO LEARN MORE WITH TIME.\nShow the code\n# Including and executing my code here\n\nurl = \"https://raw.githubusercontent.com/byuidatascience/data4missing/master/data-raw/flights_missing/flights_missing.json\"\ndf = pd.read_json(url)\n\n# Check the structure of the data\ndf.head()\n\n\n\n\n\n\n\n\n\nairport_code\nairport_name\nmonth\nyear\nnum_of_flights_total\nnum_of_delays_carrier\nnum_of_delays_late_aircraft\nnum_of_delays_nas\nnum_of_delays_security\nnum_of_delays_weather\nnum_of_delays_total\nminutes_delayed_carrier\nminutes_delayed_late_aircraft\nminutes_delayed_nas\nminutes_delayed_security\nminutes_delayed_weather\nminutes_delayed_total\n\n\n\n\n0\nATL\nAtlanta, GA: Hartsfield-Jackson Atlanta Intern...\nJanuary\n2005.0\n35048\n1500+\n-999\n4598\n10\n448\n8355\n116423.0\n104415\n207467.0\n297\n36931\n465533\n\n\n1\nDEN\nDenver, CO: Denver International\nJanuary\n2005.0\n12687\n1041\n928\n935\n11\n233\n3153\n53537.0\n70301\n36817.0\n363\n21779\n182797\n\n\n2\nIAD\n\nJanuary\n2005.0\n12381\n414\n1058\n895\n4\n61\n2430\nNaN\n70919\n35660.0\n208\n4497\n134881\n\n\n3\nORD\nChicago, IL: Chicago O'Hare International\nJanuary\n2005.0\n28194\n1197\n2255\n5415\n5\n306\n9178\n88691.0\n160811\n364382.0\n151\n24859\n638894\n\n\n4\nSAN\nSan Diego, CA: San Diego International\nJanuary\n2005.0\n7283\n572\n680\n638\n7\n56\n1952\n27436.0\n38445\n21127.0\n218\n4326\n91552"
   },
   {
-    "objectID": "cleansing.html#title-2-header",
-    "href": "cleansing.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Data Cleansing"
-    ]
+    "objectID": "code_challenge_Q1.html#question-1",
+    "href": "code_challenge_Q1.html#question-1",
+    "title": "Coding Challenge",
+    "section": "Question 1 #:",
+    "text": "Question 1 #:\n\nRecreate the following image with the flights dataLinks to an external site.\n\n\nShow the code\n# Given data for the bar chart\ndata = {\n    'airport': ['ATL', 'ORD', 'DEN', 'SFO', 'SLC', 'SAN', 'IAD'],\n    'num_flights': [35000, 29000, 20000, 12500, 10000, 6500, 5500]\n}\n\n# Creating a DataFrame from the given data\nflights_per_airport = pd.DataFrame(data)\n\n# Visualize the data\nplt.figure(figsize=(12, 8))\nsns.barplot(x='airport', y='num_flights', data=flights_per_airport, palette=\"viridis\")\nplt.title('Number of Flights per Airport')\nplt.xlabel('Airport Code')\nplt.ylabel('Number of Flights')\nplt.yticks(np.arange(0, 40001, 5000))\nplt.show()\n\n\n/tmp/ipykernel_2936/655068380.py:12: FutureWarning:\n\n\n\nPassing `palette` without assigning `hue` is deprecated and will be removed in v0.14.0. Assign the `x` variable to `hue` and set `legend=False` for the same effect."
   },
   {
-    "objectID": "Cleansing_Exploration/project2.html",
-    "href": "Cleansing_Exploration/project2.html",
+    "objectID": "Cleansing_Exploration/project1.html",
+    "href": "Cleansing_Exploration/project1.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "Cleansing_Exploration/project4.html",
-    "href": "Cleansing_Exploration/project4.html",
+    "objectID": "Cleansing_Exploration/project3.html",
+    "href": "Cleansing_Exploration/project3.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "full_stack.html",
-    "href": "full_stack.html",
+    "objectID": "Cleansing_Exploration/project5.html",
+    "href": "Cleansing_Exploration/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "competition.html",
+    "href": "competition.html",
     "title": "about me",
     "section": "",
     "text": "MarkDown Basics",
     "crumbs": [
-      "Full Stack"
+      "Competition"
     ]
   },
   {
-    "objectID": "full_stack.html#title-2-header",
-    "href": "full_stack.html#title-2-header",
+    "objectID": "competition.html#title-2-header",
+    "href": "competition.html#title-2-header",
     "title": "about me",
     "section": "",
     "text": "MarkDown Basics",
     "crumbs": [
-      "Full Stack"
+      "Competition"
     ]
   },
   {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "Elie S Mambou’s CV",
-    "section": "",
-    "text": "Multilanguage Translation Manager, Full Stack Developer.\n\nmam13003@byui.edu | My linkedin page\n\n\n\nWorking for The Africa South Area, Church of Jesus Christ of latter-day Saints\n\n\nTraining, developing capabilities among team members, Coordinating resolutions of issues, and balancing priorities.\n\n\n\nEnglish, French, German, Spanish and Portuguese.\n\n\n\nMay 2020 - Present Multilanguage Translation Manager, May 2020 - Present\nJanuary 20213 - Aprl 2020 Senior Accountant, January 2013 - April 2020\n\n\n\n\n1987 - 1992 Rural Institute of Development\n1993 - 1995 Faculty of Economic Science\n2014 - 2019 Brigham Young University Idaho, Rexburg USA, Bachelor of Science, Business Management, emphasis - Finance\nWriting and Reasoning foundations; Marketing Management; Entrepreneurial Management; Organizational Effectiveness; Business & Leadership skills; Business Statistics; Production & Operation Management; Commercial Fundamentals; Financial and Managerial Accounting\n2021 - 2024 Brigham Young University Idaho, Rexburg USA, Bachelor of Science, Applied Technology, emphasis - Web Development\nCreate dynamic webpages adhering to industry standards and best practices; Continuously acquire and implement new technologies and programming technique; Demonstrate well-developed problem-solving skills; Utilize Object-Oriented Programming principles; Demonstrate the ability to design and develop effective online solutions using current web technologies; Develop programs to achieve meaningful tasks across diverse domains\n\n\n\nCSS, HTML, JavaScript, Python & SQL Proficient in Excel and Microsoft Office, Presentation Skills, Teamwork and Collaboration, Conflict Resolution & Problem solving, Communication & Organization\n\n\n\nSoccer, Reading, Gardening"
-  },
-  {
-    "objectID": "resume.html#currently",
-    "href": "resume.html#currently",
-    "title": "Elie S Mambou’s CV",
-    "section": "",
-    "text": "Working for The Africa South Area, Church of Jesus Christ of latter-day Saints\n\n\nTraining, developing capabilities among team members, Coordinating resolutions of issues, and balancing priorities.\n\n\n\nEnglish, French, German, Spanish and Portuguese.\n\n\n\nMay 2020 - Present Multilanguage Translation Manager, May 2020 - Present\nJanuary 20213 - Aprl 2020 Senior Accountant, January 2013 - April 2020"
-  },
-  {
-    "objectID": "resume.html#education",
-    "href": "resume.html#education",
-    "title": "Elie S Mambou’s CV",
-    "section": "",
-    "text": "1987 - 1992 Rural Institute of Development\n1993 - 1995 Faculty of Economic Science\n2014 - 2019 Brigham Young University Idaho, Rexburg USA, Bachelor of Science, Business Management, emphasis - Finance\nWriting and Reasoning foundations; Marketing Management; Entrepreneurial Management; Organizational Effectiveness; Business & Leadership skills; Business Statistics; Production & Operation Management; Commercial Fundamentals; Financial and Managerial Accounting\n2021 - 2024 Brigham Young University Idaho, Rexburg USA, Bachelor of Science, Applied Technology, emphasis - Web Development\nCreate dynamic webpages adhering to industry standards and best practices; Continuously acquire and implement new technologies and programming technique; Demonstrate well-developed problem-solving skills; Utilize Object-Oriented Programming principles; Demonstrate the ability to design and develop effective online solutions using current web technologies; Develop programs to achieve meaningful tasks across diverse domains"
-  },
-  {
-    "objectID": "resume.html#skills",
-    "href": "resume.html#skills",
-    "title": "Elie S Mambou’s CV",
-    "section": "",
-    "text": "CSS, HTML, JavaScript, Python & SQL Proficient in Excel and Microsoft Office, Presentation Skills, Teamwork and Collaboration, Conflict Resolution & Problem solving, Communication & Organization"
-  },
-  {
-    "objectID": "resume.html#hobbies",
-    "href": "resume.html#hobbies",
-    "title": "Elie S Mambou’s CV",
-    "section": "",
-    "text": "Soccer, Reading, Gardening"
-  },
-  {
-    "objectID": "Full_Stack/project2.html",
-    "href": "Full_Stack/project2.html",
+    "objectID": "Full_Stack/project1.html",
+    "href": "Full_Stack/project1.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
       "Full Stack",
-      "Project 2"
+      "Project 1"
     ]
   },
   {
-    "objectID": "Full_Stack/project4.html",
-    "href": "Full_Stack/project4.html",
+    "objectID": "Full_Stack/project3.html",
+    "href": "Full_Stack/project3.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
       "Full Stack",
-      "Project 4"
+      "Project 3"
     ]
   },
   {
-    "objectID": "story_telling.html",
-    "href": "story_telling.html",
-    "title": "About Me",
+    "objectID": "Full_Stack/project5.html",
+    "href": "Full_Stack/project5.html",
+    "title": "Client Report - [Insert Project Title]",
     "section": "",
-    "text": "In a vibrant data science community, my journey from using Excel to mastering data science programming is a story of transformation and inspiration. This narrative not only highlights the significance of data science skills but also sheds light on how sharing this knowledge can empower others.\n\n\nI began my data journey with Excel, a tool beloved for its simplicity and accessibility. I meticulously crafted spreadsheets, harnessing functions and pivot tables to analyze data. While Excel served me well, I felt the limitations as datasets grew larger and analyses became more complex. The desire to delve deeper, uncover hidden patterns, and make more impactful decisions sparked my curiosity about data science.\n\n\n\nDetermined to expand my skill set, I embarked on learning data science programming. I discovered the immense power of languages like Python and R, and tools such as Jupyter Notebooks and libraries like pandas, NumPy, and scikit-learn. These tools allowed me to automate processes, handle massive datasets, and perform sophisticated analyses that were once beyond reach.\n\n\n\n\nEfficiency and Automation: With programming, I automated repetitive tasks, significantly reducing the time spent on data cleaning and preparation. This efficiency freed me to focus on deeper analysis and strategic decision-making.\nScalability: Unlike Excel, which struggles with large datasets, programming languages handle vast amounts of data effortlessly. I could now analyze millions of rows of data without performance issues, opening up new horizons for my projects.\nAdvanced Analysis: Data science programming enabled me to perform advanced statistical analyses, machine learning, and predictive modeling. Techniques like Random Forest Classifiers, which I used in my DS250 course project, provided insights that were previously unattainable.\nReproducibility and Collaboration: By writing code, I ensured my analyses were reproducible. Colleagues could review, validate, and build upon my work, fostering a collaborative environment where knowledge sharing thrived.\nVisualization and Communication: Tools like Matplotlib and Seaborn allowed me to create compelling visualizations, making complex data insights accessible and understandable to stakeholders. Effective communication of data findings became a cornerstone of my work.\n\n\n\n\nI recognized that the benefits of data science extend beyond personal growth. To share the importance of data science with others, I adopted several strategies:\n\nStorytelling: I shared my journey, highlighting the challenges and breakthroughs. By narrating how data science transformed my approach and outcomes, I inspired others to embark on similar paths.\nWorkshops and Training: I organized workshops to teach fundamental data science skills. Hands-on sessions, where participants could apply concepts to real-world problems, proved to be highly effective.\nMentorship: I mentored colleagues, providing guidance and support as they navigated their learning journeys. My experience and insights became a valuable resource for those eager to dive into data science.\nShowcasing Impact: Demonstrating tangible results from data science projects reinforced its importance. I presented case studies where data-driven decisions led to significant improvements, making a compelling case for investing in these skills.\nBuilding a Community: I fostered a supportive community where members could share knowledge, collaborate on projects, and celebrate successes. This sense of belonging and mutual growth motivated individuals to pursue data science with enthusiasm.\n\n\n\n\nMy story underscores the transformative power of data science. As I continue to refine my skills and share my knowledge, I envision a future where data literacy is widespread, and data-driven decision-making is the norm. By embracing data science, my community and I are not only preparing for the challenges of tomorrow but also shaping a future where data unlocks endless possibilities.",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Story Telling"
+      "Full Stack",
+      "Project 5"
     ]
   },
   {
-    "objectID": "story_telling.html#the-beginning-excel-days",
-    "href": "story_telling.html#the-beginning-excel-days",
-    "title": "About Me",
-    "section": "",
-    "text": "I began my data journey with Excel, a tool beloved for its simplicity and accessibility. I meticulously crafted spreadsheets, harnessing functions and pivot tables to analyze data. While Excel served me well, I felt the limitations as datasets grew larger and analyses became more complex. The desire to delve deeper, uncover hidden patterns, and make more impactful decisions sparked my curiosity about data science.",
-    "crumbs": [
-      "Story Telling"
-    ]
-  },
-  {
-    "objectID": "story_telling.html#the-transition-embracing-data-science",
-    "href": "story_telling.html#the-transition-embracing-data-science",
-    "title": "About Me",
-    "section": "",
-    "text": "Determined to expand my skill set, I embarked on learning data science programming. I discovered the immense power of languages like Python and R, and tools such as Jupyter Notebooks and libraries like pandas, NumPy, and scikit-learn. These tools allowed me to automate processes, handle massive datasets, and perform sophisticated analyses that were once beyond reach.",
-    "crumbs": [
-      "Story Telling"
-    ]
-  },
-  {
-    "objectID": "story_telling.html#the-benefits-unleashing-new-possibilities",
-    "href": "story_telling.html#the-benefits-unleashing-new-possibilities",
-    "title": "About Me",
-    "section": "",
-    "text": "Efficiency and Automation: With programming, I automated repetitive tasks, significantly reducing the time spent on data cleaning and preparation. This efficiency freed me to focus on deeper analysis and strategic decision-making.\nScalability: Unlike Excel, which struggles with large datasets, programming languages handle vast amounts of data effortlessly. I could now analyze millions of rows of data without performance issues, opening up new horizons for my projects.\nAdvanced Analysis: Data science programming enabled me to perform advanced statistical analyses, machine learning, and predictive modeling. Techniques like Random Forest Classifiers, which I used in my DS250 course project, provided insights that were previously unattainable.\nReproducibility and Collaboration: By writing code, I ensured my analyses were reproducible. Colleagues could review, validate, and build upon my work, fostering a collaborative environment where knowledge sharing thrived.\nVisualization and Communication: Tools like Matplotlib and Seaborn allowed me to create compelling visualizations, making complex data insights accessible and understandable to stakeholders. Effective communication of data findings became a cornerstone of my work.",
-    "crumbs": [
-      "Story Telling"
-    ]
-  },
-  {
-    "objectID": "story_telling.html#the-future-sharing-the-importance-of-data-science",
-    "href": "story_telling.html#the-future-sharing-the-importance-of-data-science",
-    "title": "About Me",
-    "section": "",
-    "text": "I recognized that the benefits of data science extend beyond personal growth. To share the importance of data science with others, I adopted several strategies:\n\nStorytelling: I shared my journey, highlighting the challenges and breakthroughs. By narrating how data science transformed my approach and outcomes, I inspired others to embark on similar paths.\nWorkshops and Training: I organized workshops to teach fundamental data science skills. Hands-on sessions, where participants could apply concepts to real-world problems, proved to be highly effective.\nMentorship: I mentored colleagues, providing guidance and support as they navigated their learning journeys. My experience and insights became a valuable resource for those eager to dive into data science.\nShowcasing Impact: Demonstrating tangible results from data science projects reinforced its importance. I presented case studies where data-driven decisions led to significant improvements, making a compelling case for investing in these skills.\nBuilding a Community: I fostered a supportive community where members could share knowledge, collaborate on projects, and celebrate successes. This sense of belonging and mutual growth motivated individuals to pursue data science with enthusiasm.",
-    "crumbs": [
-      "Story Telling"
-    ]
-  },
-  {
-    "objectID": "story_telling.html#conclusion-a-vision-for-the-future",
-    "href": "story_telling.html#conclusion-a-vision-for-the-future",
-    "title": "About Me",
-    "section": "",
-    "text": "My story underscores the transformative power of data science. As I continue to refine my skills and share my knowledge, I envision a future where data literacy is widespread, and data-driven decision-making is the norm. By embracing data science, my community and I are not only preparing for the challenges of tomorrow but also shaping a future where data unlocks endless possibilities.",
-    "crumbs": [
-      "Story Telling"
-    ]
-  },
-  {
-    "objectID": "story_telling.html#dear-substack-community",
-    "href": "story_telling.html#dear-substack-community",
-    "title": "About Me",
-    "section": "Dear Substack Community,",
-    "text": "Dear Substack Community,\nIn a world brimming with possibilities, I’ve chosen to embrace each opportunity with fervor, gratitude, and an unwavering resolve to carve my own path. Welcome to my corner of the internet, where I invite you to embark on a journey fueled by passion, perseverance, and an insatiable thirst for knowledge.",
-    "crumbs": [
-      "Story Telling"
-    ]
-  },
-  {
-    "objectID": "story_telling.html#the-power-of-positivity",
-    "href": "story_telling.html#the-power-of-positivity",
-    "title": "About Me",
-    "section": "The Power of Positivity",
-    "text": "The Power of Positivity\nI believe that life’s challenges are not roadblocks but stepping stones toward personal growth and enlightenment. With every obstacle encountered, I’ve learned to pivot, adapt, and emerge stronger than before. Through the lens of positivity and a steadfast determination, I’ve transformed setbacks into springboards for success.",
-    "crumbs": [
-      "Story Telling"
-    ]
-  },
-  {
-    "objectID": "story_telling.html#a-diverse-academic-journey",
-    "href": "story_telling.html#a-diverse-academic-journey",
-    "title": "About Me",
-    "section": "A Diverse Academic Journey",
-    "text": "A Diverse Academic Journey\nMy academic journey is a testament to this ethos. With degrees spanning Natural Science, Economics, Finance, and Applied Information Technology, I’ve cultivated a diverse skill set rooted in curiosity and a hunger for understanding. Currently pursuing a degree in Data Science at BYU Idaho, I’m delving deeper into the realm of big data analytics, recognizing its pivotal role in shaping our future.",
-    "crumbs": [
-      "Story Telling"
-    ]
-  },
-  {
-    "objectID": "story_telling.html#the-bridge-of-language",
-    "href": "story_telling.html#the-bridge-of-language",
-    "title": "About Me",
-    "section": "The Bridge of Language",
-    "text": "The Bridge of Language\nBeyond academia, my linguistic prowess serves as a bridge connecting me with individuals from all walks of life. Fluent in French, English, Spanish, and German, with Portuguese on the horizon, I’ve discovered that effective communication transcends language barriers, fostering meaningful connections and enriching experiences.",
-    "crumbs": [
-      "Story Telling"
-    ]
-  },
-  {
-    "objectID": "story_telling.html#the-cornerstone-of-gratitude",
-    "href": "story_telling.html#the-cornerstone-of-gratitude",
-    "title": "About Me",
-    "section": "The Cornerstone of Gratitude",
-    "text": "The Cornerstone of Gratitude\nBut amidst the pursuit of knowledge and professional endeavors, one principle remains constant: gratitude. I firmly believe that gratitude is the cornerstone of resilience, anchoring us in moments of uncertainty and propelling us toward brighter horizons. Each day presents an opportunity to express gratitude, to find joy in the mundane, and to cultivate a positive mindset that transcends circumstances.",
-    "crumbs": [
-      "Story Telling"
-    ]
-  },
-  {
-    "objectID": "story_telling.html#an-invitation-to-join-the-journey",
-    "href": "story_telling.html#an-invitation-to-join-the-journey",
-    "title": "About Me",
-    "section": "An Invitation to Join the Journey",
-    "text": "An Invitation to Join the Journey\nSo, dear reader, I extend an invitation to join me on this exhilarating voyage. Together, let’s celebrate the beauty of resilience, the power of gratitude, and the boundless potential that lies within each of us. Let’s inspire one another, uplift one another, and discover the infinite possibilities that await us on this remarkable journey called life.\nWith gratitude and optimism,\nElie M.",
-    "crumbs": [
-      "Story Telling"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "exploration.html",
+    "href": "exploration.html",
     "title": "about me",
     "section": "",
-    "text": "MarkDown Basics"
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Data Exploration"
+    ]
   },
   {
-    "objectID": "index.html#title-2-header",
-    "href": "index.html#title-2-header",
+    "objectID": "exploration.html#title-2-header",
+    "href": "exploration.html#title-2-header",
     "title": "about me",
     "section": "",
-    "text": "MarkDown Basics"
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Data Exploration"
+    ]
+  },
+  {
+    "objectID": "code_challenge_Q2.html",
+    "href": "code_challenge_Q2.html",
+    "title": "Coding Challenge",
+    "section": "",
+    "text": "Show the code\n# Read in libraries\nimport pandas as pd\nimport numpy as np\nimport matplotlib.pyplot as plt\nimport seaborn as sns\nINSIGHT: THERE WERE MANY CHALLENGES IN THIS EXERCISE. i HOPE TO LEARN MORE WITH TIME."
+  },
+  {
+    "objectID": "code_challenge_Q2.html#question-2",
+    "href": "code_challenge_Q2.html#question-2",
+    "title": "Coding Challenge",
+    "section": "Question 2 #:",
+    "text": "Question 2 #:\n\nCalculate the mean after replacing the missing values with the standard deviation (2 decimal places):\nproblem = pd.Series([np.nan, 18, 22, 45, 31, np.nan, 85, 38, 129, 8000, 22, 2])Recreate the following image with the flights dataLinks to an external site.\n\n\nShow the code\nimport pandas as pd\nimport numpy as np\n\n# Given series with missing values\nproblem = pd.Series([np.nan, 18, 22, 45, 31, np.nan, 85, 38, 129, 8000, 22, 2])\n\n# Calculate the standard deviation of the non-missing values\nstd_dev = problem.std()\n\n# Fill the missing values with the calculated standard deviation\nproblem_filled = problem.fillna(std_dev)\n\n# Calculate the mean of the series after filling the missing values\nmean_filled = problem_filled.mean()\n\n# Round the mean to 2 decimal places\nmean_filled_rounded = round(mean_filled, 2)\n\nmean_filled_rounded\n\n\nnp.float64(1118.72)"
   },
   {
     "objectID": "Story_Telling/project2.html",
@@ -279,6 +156,20 @@
     "title": "Coding Challenge",
     "section": "Question 2 #:",
     "text": "Question 2 #:\n\nCalculate the mean after replacing the missing values with the standard deviation (2 decimal places):\nproblem = pd.Series([np.nan, 18, 22, 45, 31, np.nan, 85, 38, 129, 8000, 22, 2])Recreate the following image with the flights dataLinks to an external site.\n\n\nShow the code\nimport pandas as pd\nimport numpy as np\n\n# Given series with missing values\nproblem = pd.Series([np.nan, 18, 22, 45, 31, np.nan, 85, 38, 129, 8000, 22, 2])\n\n# Calculate the standard deviation of the non-missing values\nstd_dev = problem.std()\n\n# Fill the missing values with the calculated standard deviation\nproblem_filled = problem.fillna(std_dev)\n\n# Calculate the mean of the series after filling the missing values\nmean_filled = problem_filled.mean()\n\n# Round the mean to 2 decimal places\nmean_filled_rounded = round(mean_filled, 2)\n\nmean_filled_rounded\n\n\nnp.float64(1118.72)"
+  },
+  {
+    "objectID": "code_challenge_Q3.html",
+    "href": "code_challenge_Q3.html",
+    "title": "Coding Challenge",
+    "section": "",
+    "text": "Show the code\n# Read in libraries\nimport pandas as pd\nimport numpy as np\nimport matplotlib.pyplot as plt\nimport seaborn as sns"
+  },
+  {
+    "objectID": "code_challenge_Q3.html#question-3",
+    "href": "code_challenge_Q3.html#question-3",
+    "title": "Coding Challenge",
+    "section": "Question 3 #:",
+    "text": "Question 3 #:\n\nManually convert the location column of the Star Wars dataLinks to an external site. to numeric values and display a histogram of the values:\n\n\nShow the code\n# Read in clean dataset\nurl = \"http://byuistats.github.io/CSE250-Course/data/clean_starwars.csv\"\nsw_dat = pd.read_csv(url)\n\n# Display the column names to identify the correct names for the location column\nprint(sw_dat.columns)\n\n\nIndex(['rank__i__the_phantom_menace', 'rank__ii__attack_of_the_clones',\n       'rank__iii__revenge_of_the_sith', 'rank__iv__a_new_hope',\n       'rank__v_the_empire_strikes_back', 'rank__vi_return_of_the_jedi',\n       'age_min', 'education', 'income_label', 'seen_any_Yes',\n       'star_wars_fans_Yes', 'view__han_solo_Somewhat favorably',\n       'view__han_solo_Somewhat unfavorably',\n       'view__han_solo_Unfamiliar (N/A)', 'view__han_solo_Very favorably',\n       'view__han_solo_Very unfavorably',\n       'view__luke_skywalker_Somewhat favorably',\n       'view__luke_skywalker_Somewhat unfavorably',\n       'view__luke_skywalker_Unfamiliar (N/A)',\n       'view__luke_skywalker_Very favorably',\n       'view__luke_skywalker_Very unfavorably',\n       'view__princess_leia_organa_Somewhat favorably',\n       'view__princess_leia_organa_Somewhat unfavorably',\n       'view__princess_leia_organa_Unfamiliar (N/A)',\n       'view__princess_leia_organa_Very favorably',\n       'view__princess_leia_organa_Very unfavorably',\n       'view__anakin_skywalker_Somewhat favorably',\n       'view__anakin_skywalker_Somewhat unfavorably',\n       'view__anakin_skywalker_Unfamiliar (N/A)',\n       'view__anakin_skywalker_Very favorably',\n       'view__anakin_skywalker_Very unfavorably',\n       'view__obi_wan_kenobi_Somewhat favorably',\n       'view__obi_wan_kenobi_Somewhat unfavorably',\n       'view__obi_wan_kenobi_Unfamiliar (N/A)',\n       'view__obi_wan_kenobi_Very favorably',\n       'view__obi_wan_kenobi_Very unfavorably',\n       'view__emperor_palpatine_Somewhat favorably',\n       'view__emperor_palpatine_Somewhat unfavorably',\n       'view__emperor_palpatine_Unfamiliar (N/A)',\n       'view__emperor_palpatine_Very favorably',\n       'view__emperor_palpatine_Very unfavorably',\n       'view__darth_vader_Somewhat favorably',\n       'view__darth_vader_Somewhat unfavorably',\n       'view__darth_vader_Unfamiliar (N/A)',\n       'view__darth_vader_Very favorably',\n       'view__darth_vader_Very unfavorably',\n       'view__lando_calrissian_Somewhat favorably',\n       'view__lando_calrissian_Somewhat unfavorably',\n       'view__lando_calrissian_Unfamiliar (N/A)',\n       'view__lando_calrissian_Very favorably',\n       'view__lando_calrissian_Very unfavorably',\n       'view__boba_fett_Somewhat favorably',\n       'view__boba_fett_Somewhat unfavorably',\n       'view__boba_fett_Unfamiliar (N/A)', 'view__boba_fett_Very favorably',\n       'view__boba_fett_Very unfavorably', 'view__c-3p0_Somewhat favorably',\n       'view__c-3p0_Somewhat unfavorably', 'view__c-3p0_Unfamiliar (N/A)',\n       'view__c-3p0_Very favorably', 'view__c-3p0_Very unfavorably',\n       'view__r2_d2_Somewhat favorably', 'view__r2_d2_Somewhat unfavorably',\n       'view__r2_d2_Unfamiliar (N/A)', 'view__r2_d2_Very favorably',\n       'view__r2_d2_Very unfavorably',\n       'view__jar_jar_binks_Somewhat favorably',\n       'view__jar_jar_binks_Somewhat unfavorably',\n       'view__jar_jar_binks_Unfamiliar (N/A)',\n       'view__jar_jar_binks_Very favorably',\n       'view__jar_jar_binks_Very unfavorably',\n       'view__padme_amidala_Somewhat favorably',\n       'view__padme_amidala_Somewhat unfavorably',\n       'view__padme_amidala_Unfamiliar (N/A)',\n       'view__padme_amidala_Very favorably',\n       'view__padme_amidala_Very unfavorably', 'view__yoda_Somewhat favorably',\n       'view__yoda_Somewhat unfavorably', 'view__yoda_Unfamiliar (N/A)',\n       'view__yoda_Very favorably', 'view__yoda_Very unfavorably',\n       'shot_first_Han', 'shot_first_I don't understand this question',\n       'know_expanded_Yes', 'expanded_fan_Yes', 'star_trek_fan_Yes',\n       'location_(census_region)_East South Central',\n       'location_(census_region)_Middle Atlantic',\n       'location_(census_region)_Mountain',\n       'location_(census_region)_New England',\n       'location_(census_region)_Pacific',\n       'location_(census_region)_South Atlantic',\n       'location_(census_region)_West North Central',\n       'location_(census_region)_West South Central', 'gender'],\n      dtype='object')\n\n\n\n\nShow the code\nimport pandas as pd\nimport numpy as np\nimport matplotlib.pyplot as plt\nimport seaborn as sns\n\n# Read in the dataset\nurl = \"http://byuistats.github.io/CSE250-Course/data/clean_starwars.csv\"\nsw_dat = pd.read_csv(url)\n\n# Identify the location columns\nlocation_columns = [col for col in sw_dat.columns if col.startswith('location_(census_region)_')]\n\n# Create a dictionary to map location names to numeric values\nlocation_mapping = {location: idx for idx, location in enumerate(location_columns)}\n\n# Create a new column to store the numeric values\nsw_dat['location_numeric'] = sw_dat[location_columns].idxmax(axis=1).map(location_mapping)\n\n# Display a histogram of the numeric values\nplt.figure(figsize=(10, 6))\nsns.histplot(sw_dat['location_numeric'], bins=len(location_columns), kde=False)\nplt.xlabel('Location Numeric Value')\nplt.ylabel('Frequency')\nplt.title('Histogram of Location Numeric Values')\nplt.show()"
   },
   {
     "objectID": "Competition/project2.html",
@@ -466,6 +357,20 @@
     ]
   },
   {
+    "objectID": "code_challenge_Q4.html",
+    "href": "code_challenge_Q4.html",
+    "title": "Coding Challenge",
+    "section": "",
+    "text": "Show the code\n# Read in libraries\nimport pandas as pd\nimport numpy as np\nimport matplotlib.pyplot as plt\nimport seaborn as sns\nfrom sklearn.model_selection import train_test_split\nfrom sklearn.ensemble import GradientBoostingClassifier\nfrom sklearn import metrics"
+  },
+  {
+    "objectID": "code_challenge_Q4.html#question-4",
+    "href": "code_challenge_Q4.html#question-4",
+    "title": "Coding Challenge",
+    "section": "Question 4 #:",
+    "text": "Question 4 #:\n_ Using the flight dataLinks to an external site., complete the following: Create training and test data using train_test_split with the following arguments; test_size = .33 and random_state = 1936. Use GradientBoostingClassifier() to build a machine learning model. Report your accuracy score and confusion matrix.\n\n\nShow the code\n# Read in the flights data\nurl = \"https://raw.githubusercontent.com/byuidatascience/data4missing/master/data-raw/flights_missing/flights_missing.json\"\ndf = pd.read_json(url)\n\n\n\n\nShow the code\n# Display the first few rows and column names to understand the data structure\nprint(df.head())\nprint(df.columns)\n\n# Drop rows with missing values for simplicity (you may handle missing data differently)\ndf = df.dropna()\n\n# Select features and target variable\n# Based on the data, let's assume 'num_of_delays_total' as the target variable\nX = df.drop('num_of_delays_total', axis=1)\ny = df['num_of_delays_total']\n\n# Convert categorical columns to dummy variables\nX = pd.get_dummies(X, drop_first=True)\n\n# Create training and test data\nX_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.33, random_state=1936)\n\n# Build a Gradient Boosting Classifier model\nmodel = GradientBoostingClassifier()\nmodel.fit(X_train, y_train)\n\n# Predict the test data\ny_pred = model.predict(X_test)\n\n# Report accuracy score\naccuracy = metrics.accuracy_score(y_test, y_pred)\nprint(f'Accuracy: {accuracy:.2f}')\n\n# Report confusion matrix\nconf_matrix = metrics.confusion_matrix(y_test, y_pred)\nprint('Confusion Matrix:')\nprint(conf_matrix)\n\n# Plot confusion matrix\nplt.figure(figsize=(10, 7))\nsns.heatmap(conf_matrix, annot=True, fmt='d', cmap='Blues')\nplt.xlabel('Predicted')\nplt.ylabel('Actual')\nplt.title('Confusion Matrix')\nplt.show()\n\n\n  airport_code                                       airport_name    month  \\\n0          ATL  Atlanta, GA: Hartsfield-Jackson Atlanta Intern...  January   \n1          DEN                   Denver, CO: Denver International  January   \n2          IAD                                                     January   \n3          ORD          Chicago, IL: Chicago O'Hare International  January   \n4          SAN             San Diego, CA: San Diego International  January   \n\n     year  num_of_flights_total num_of_delays_carrier  \\\n0  2005.0                 35048                 1500+   \n1  2005.0                 12687                  1041   \n2  2005.0                 12381                   414   \n3  2005.0                 28194                  1197   \n4  2005.0                  7283                   572   \n\n   num_of_delays_late_aircraft  num_of_delays_nas  num_of_delays_security  \\\n0                         -999               4598                      10   \n1                          928                935                      11   \n2                         1058                895                       4   \n3                         2255               5415                       5   \n4                          680                638                       7   \n\n   num_of_delays_weather  num_of_delays_total  minutes_delayed_carrier  \\\n0                    448                 8355                 116423.0   \n1                    233                 3153                  53537.0   \n2                     61                 2430                      NaN   \n3                    306                 9178                  88691.0   \n4                     56                 1952                  27436.0   \n\n   minutes_delayed_late_aircraft  minutes_delayed_nas  \\\n0                         104415             207467.0   \n1                          70301              36817.0   \n2                          70919              35660.0   \n3                         160811             364382.0   \n4                          38445              21127.0   \n\n   minutes_delayed_security  minutes_delayed_weather  minutes_delayed_total  \n0                       297                    36931                 465533  \n1                       363                    21779                 182797  \n2                       208                     4497                 134881  \n3                       151                    24859                 638894  \n4                       218                     4326                  91552  \nIndex(['airport_code', 'airport_name', 'month', 'year', 'num_of_flights_total',\n       'num_of_delays_carrier', 'num_of_delays_late_aircraft',\n       'num_of_delays_nas', 'num_of_delays_security', 'num_of_delays_weather',\n       'num_of_delays_total', 'minutes_delayed_carrier',\n       'minutes_delayed_late_aircraft', 'minutes_delayed_nas',\n       'minutes_delayed_security', 'minutes_delayed_weather',\n       'minutes_delayed_total'],\n      dtype='object')\nAccuracy: 0.00\nConfusion Matrix:\n[[0 0 1 ... 0 0 0]\n [0 0 0 ... 0 0 0]\n [0 0 0 ... 0 0 0]\n ...\n [0 0 0 ... 0 0 0]\n [0 0 0 ... 1 0 0]\n [0 0 0 ... 0 0 0]]\n\n\n\n\n\n\n\n\n\nWhen done with a question, render it to a .html file and upload it for the question. Either re-downolad this template or file -&gt; save as -&gt; a new file name and then replace the text in the question with the new question text."
+  },
+  {
     "objectID": "Story_Telling/project5.html",
     "href": "Story_Telling/project5.html",
     "title": "Client Report - [Insert Project Title]",
@@ -499,97 +404,248 @@
     ]
   },
   {
-    "objectID": "exploration.html",
-    "href": "exploration.html",
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "about me",
     "section": "",
-    "text": "MarkDown Basics",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "index.html#title-2-header",
+    "href": "index.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "story_telling.html",
+    "href": "story_telling.html",
+    "title": "About Me",
+    "section": "",
+    "text": "In a vibrant data science community, my journey from using Excel to mastering data science programming is a story of transformation and inspiration. This narrative not only highlights the significance of data science skills but also sheds light on how sharing this knowledge can empower others.\n\n\nI began my data journey with Excel, a tool beloved for its simplicity and accessibility. I meticulously crafted spreadsheets, harnessing functions and pivot tables to analyze data. While Excel served me well, I felt the limitations as datasets grew larger and analyses became more complex. The desire to delve deeper, uncover hidden patterns, and make more impactful decisions sparked my curiosity about data science.\n\n\n\nDetermined to expand my skill set, I embarked on learning data science programming. I discovered the immense power of languages like Python and R, and tools such as Jupyter Notebooks and libraries like pandas, NumPy, and scikit-learn. These tools allowed me to automate processes, handle massive datasets, and perform sophisticated analyses that were once beyond reach.\n\n\n\n\nEfficiency and Automation: With programming, I automated repetitive tasks, significantly reducing the time spent on data cleaning and preparation. This efficiency freed me to focus on deeper analysis and strategic decision-making.\nScalability: Unlike Excel, which struggles with large datasets, programming languages handle vast amounts of data effortlessly. I could now analyze millions of rows of data without performance issues, opening up new horizons for my projects.\nAdvanced Analysis: Data science programming enabled me to perform advanced statistical analyses, machine learning, and predictive modeling. Techniques like Random Forest Classifiers, which I used in my DS250 course project, provided insights that were previously unattainable.\nReproducibility and Collaboration: By writing code, I ensured my analyses were reproducible. Colleagues could review, validate, and build upon my work, fostering a collaborative environment where knowledge sharing thrived.\nVisualization and Communication: Tools like Matplotlib and Seaborn allowed me to create compelling visualizations, making complex data insights accessible and understandable to stakeholders. Effective communication of data findings became a cornerstone of my work.\n\n\n\n\nI recognized that the benefits of data science extend beyond personal growth. To share the importance of data science with others, I adopted several strategies:\n\nStorytelling: I shared my journey, highlighting the challenges and breakthroughs. By narrating how data science transformed my approach and outcomes, I inspired others to embark on similar paths.\nWorkshops and Training: I organized workshops to teach fundamental data science skills. Hands-on sessions, where participants could apply concepts to real-world problems, proved to be highly effective.\nMentorship: I mentored colleagues, providing guidance and support as they navigated their learning journeys. My experience and insights became a valuable resource for those eager to dive into data science.\nShowcasing Impact: Demonstrating tangible results from data science projects reinforced its importance. I presented case studies where data-driven decisions led to significant improvements, making a compelling case for investing in these skills.\nBuilding a Community: I fostered a supportive community where members could share knowledge, collaborate on projects, and celebrate successes. This sense of belonging and mutual growth motivated individuals to pursue data science with enthusiasm.\n\n\n\n\nMy story underscores the transformative power of data science. As I continue to refine my skills and share my knowledge, I envision a future where data literacy is widespread, and data-driven decision-making is the norm. By embracing data science, my community and I are not only preparing for the challenges of tomorrow but also shaping a future where data unlocks endless possibilities.",
     "crumbs": [
-      "Data Exploration"
+      "Story Telling"
     ]
   },
   {
-    "objectID": "exploration.html#title-2-header",
-    "href": "exploration.html#title-2-header",
-    "title": "about me",
+    "objectID": "story_telling.html#the-beginning-excel-days",
+    "href": "story_telling.html#the-beginning-excel-days",
+    "title": "About Me",
     "section": "",
-    "text": "MarkDown Basics",
+    "text": "I began my data journey with Excel, a tool beloved for its simplicity and accessibility. I meticulously crafted spreadsheets, harnessing functions and pivot tables to analyze data. While Excel served me well, I felt the limitations as datasets grew larger and analyses became more complex. The desire to delve deeper, uncover hidden patterns, and make more impactful decisions sparked my curiosity about data science.",
     "crumbs": [
-      "Data Exploration"
+      "Story Telling"
     ]
   },
   {
-    "objectID": "Full_Stack/project5.html",
-    "href": "Full_Stack/project5.html",
+    "objectID": "story_telling.html#the-transition-embracing-data-science",
+    "href": "story_telling.html#the-transition-embracing-data-science",
+    "title": "About Me",
+    "section": "",
+    "text": "Determined to expand my skill set, I embarked on learning data science programming. I discovered the immense power of languages like Python and R, and tools such as Jupyter Notebooks and libraries like pandas, NumPy, and scikit-learn. These tools allowed me to automate processes, handle massive datasets, and perform sophisticated analyses that were once beyond reach.",
+    "crumbs": [
+      "Story Telling"
+    ]
+  },
+  {
+    "objectID": "story_telling.html#the-benefits-unleashing-new-possibilities",
+    "href": "story_telling.html#the-benefits-unleashing-new-possibilities",
+    "title": "About Me",
+    "section": "",
+    "text": "Efficiency and Automation: With programming, I automated repetitive tasks, significantly reducing the time spent on data cleaning and preparation. This efficiency freed me to focus on deeper analysis and strategic decision-making.\nScalability: Unlike Excel, which struggles with large datasets, programming languages handle vast amounts of data effortlessly. I could now analyze millions of rows of data without performance issues, opening up new horizons for my projects.\nAdvanced Analysis: Data science programming enabled me to perform advanced statistical analyses, machine learning, and predictive modeling. Techniques like Random Forest Classifiers, which I used in my DS250 course project, provided insights that were previously unattainable.\nReproducibility and Collaboration: By writing code, I ensured my analyses were reproducible. Colleagues could review, validate, and build upon my work, fostering a collaborative environment where knowledge sharing thrived.\nVisualization and Communication: Tools like Matplotlib and Seaborn allowed me to create compelling visualizations, making complex data insights accessible and understandable to stakeholders. Effective communication of data findings became a cornerstone of my work.",
+    "crumbs": [
+      "Story Telling"
+    ]
+  },
+  {
+    "objectID": "story_telling.html#the-future-sharing-the-importance-of-data-science",
+    "href": "story_telling.html#the-future-sharing-the-importance-of-data-science",
+    "title": "About Me",
+    "section": "",
+    "text": "I recognized that the benefits of data science extend beyond personal growth. To share the importance of data science with others, I adopted several strategies:\n\nStorytelling: I shared my journey, highlighting the challenges and breakthroughs. By narrating how data science transformed my approach and outcomes, I inspired others to embark on similar paths.\nWorkshops and Training: I organized workshops to teach fundamental data science skills. Hands-on sessions, where participants could apply concepts to real-world problems, proved to be highly effective.\nMentorship: I mentored colleagues, providing guidance and support as they navigated their learning journeys. My experience and insights became a valuable resource for those eager to dive into data science.\nShowcasing Impact: Demonstrating tangible results from data science projects reinforced its importance. I presented case studies where data-driven decisions led to significant improvements, making a compelling case for investing in these skills.\nBuilding a Community: I fostered a supportive community where members could share knowledge, collaborate on projects, and celebrate successes. This sense of belonging and mutual growth motivated individuals to pursue data science with enthusiasm.",
+    "crumbs": [
+      "Story Telling"
+    ]
+  },
+  {
+    "objectID": "story_telling.html#conclusion-a-vision-for-the-future",
+    "href": "story_telling.html#conclusion-a-vision-for-the-future",
+    "title": "About Me",
+    "section": "",
+    "text": "My story underscores the transformative power of data science. As I continue to refine my skills and share my knowledge, I envision a future where data literacy is widespread, and data-driven decision-making is the norm. By embracing data science, my community and I are not only preparing for the challenges of tomorrow but also shaping a future where data unlocks endless possibilities.",
+    "crumbs": [
+      "Story Telling"
+    ]
+  },
+  {
+    "objectID": "story_telling.html#dear-substack-community",
+    "href": "story_telling.html#dear-substack-community",
+    "title": "About Me",
+    "section": "Dear Substack Community,",
+    "text": "Dear Substack Community,\nIn a world brimming with possibilities, I’ve chosen to embrace each opportunity with fervor, gratitude, and an unwavering resolve to carve my own path. Welcome to my corner of the internet, where I invite you to embark on a journey fueled by passion, perseverance, and an insatiable thirst for knowledge.",
+    "crumbs": [
+      "Story Telling"
+    ]
+  },
+  {
+    "objectID": "story_telling.html#the-power-of-positivity",
+    "href": "story_telling.html#the-power-of-positivity",
+    "title": "About Me",
+    "section": "The Power of Positivity",
+    "text": "The Power of Positivity\nI believe that life’s challenges are not roadblocks but stepping stones toward personal growth and enlightenment. With every obstacle encountered, I’ve learned to pivot, adapt, and emerge stronger than before. Through the lens of positivity and a steadfast determination, I’ve transformed setbacks into springboards for success.",
+    "crumbs": [
+      "Story Telling"
+    ]
+  },
+  {
+    "objectID": "story_telling.html#a-diverse-academic-journey",
+    "href": "story_telling.html#a-diverse-academic-journey",
+    "title": "About Me",
+    "section": "A Diverse Academic Journey",
+    "text": "A Diverse Academic Journey\nMy academic journey is a testament to this ethos. With degrees spanning Natural Science, Economics, Finance, and Applied Information Technology, I’ve cultivated a diverse skill set rooted in curiosity and a hunger for understanding. Currently pursuing a degree in Data Science at BYU Idaho, I’m delving deeper into the realm of big data analytics, recognizing its pivotal role in shaping our future.",
+    "crumbs": [
+      "Story Telling"
+    ]
+  },
+  {
+    "objectID": "story_telling.html#the-bridge-of-language",
+    "href": "story_telling.html#the-bridge-of-language",
+    "title": "About Me",
+    "section": "The Bridge of Language",
+    "text": "The Bridge of Language\nBeyond academia, my linguistic prowess serves as a bridge connecting me with individuals from all walks of life. Fluent in French, English, Spanish, and German, with Portuguese on the horizon, I’ve discovered that effective communication transcends language barriers, fostering meaningful connections and enriching experiences.",
+    "crumbs": [
+      "Story Telling"
+    ]
+  },
+  {
+    "objectID": "story_telling.html#the-cornerstone-of-gratitude",
+    "href": "story_telling.html#the-cornerstone-of-gratitude",
+    "title": "About Me",
+    "section": "The Cornerstone of Gratitude",
+    "text": "The Cornerstone of Gratitude\nBut amidst the pursuit of knowledge and professional endeavors, one principle remains constant: gratitude. I firmly believe that gratitude is the cornerstone of resilience, anchoring us in moments of uncertainty and propelling us toward brighter horizons. Each day presents an opportunity to express gratitude, to find joy in the mundane, and to cultivate a positive mindset that transcends circumstances.",
+    "crumbs": [
+      "Story Telling"
+    ]
+  },
+  {
+    "objectID": "story_telling.html#an-invitation-to-join-the-journey",
+    "href": "story_telling.html#an-invitation-to-join-the-journey",
+    "title": "About Me",
+    "section": "An Invitation to Join the Journey",
+    "text": "An Invitation to Join the Journey\nSo, dear reader, I extend an invitation to join me on this exhilarating voyage. Together, let’s celebrate the beauty of resilience, the power of gratitude, and the boundless potential that lies within each of us. Let’s inspire one another, uplift one another, and discover the infinite possibilities that await us on this remarkable journey called life.\nWith gratitude and optimism,\nElie M.",
+    "crumbs": [
+      "Story Telling"
+    ]
+  },
+  {
+    "objectID": "Full_Stack/project4.html",
+    "href": "Full_Stack/project4.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
       "Full Stack",
-      "Project 5"
+      "Project 4"
     ]
   },
   {
-    "objectID": "Full_Stack/project3.html",
-    "href": "Full_Stack/project3.html",
+    "objectID": "Full_Stack/project2.html",
+    "href": "Full_Stack/project2.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
       "Full Stack",
-      "Project 3"
+      "Project 2"
     ]
   },
   {
-    "objectID": "Full_Stack/project1.html",
-    "href": "Full_Stack/project1.html",
-    "title": "Client Report - [Insert Project Title]",
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Elie S Mambou’s CV",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Full Stack",
-      "Project 1"
-    ]
+    "text": "Multilanguage Translation Manager, Full Stack Developer.\n\nmam13003@byui.edu | My linkedin page\n\n\n\nWorking for The Africa South Area, Church of Jesus Christ of latter-day Saints\n\n\nTraining, developing capabilities among team members, Coordinating resolutions of issues, and balancing priorities.\n\n\n\nEnglish, French, German, Spanish and Portuguese.\n\n\n\nMay 2020 - Present Multilanguage Translation Manager, May 2020 - Present\nJanuary 20213 - Aprl 2020 Senior Accountant, January 2013 - April 2020\n\n\n\n\n1987 - 1992 Rural Institute of Development\n1993 - 1995 Faculty of Economic Science\n2014 - 2019 Brigham Young University Idaho, Rexburg USA, Bachelor of Science, Business Management, emphasis - Finance\nWriting and Reasoning foundations; Marketing Management; Entrepreneurial Management; Organizational Effectiveness; Business & Leadership skills; Business Statistics; Production & Operation Management; Commercial Fundamentals; Financial and Managerial Accounting\n2021 - 2024 Brigham Young University Idaho, Rexburg USA, Bachelor of Science, Applied Technology, emphasis - Web Development\nCreate dynamic webpages adhering to industry standards and best practices; Continuously acquire and implement new technologies and programming technique; Demonstrate well-developed problem-solving skills; Utilize Object-Oriented Programming principles; Demonstrate the ability to design and develop effective online solutions using current web technologies; Develop programs to achieve meaningful tasks across diverse domains\n\n\n\nCSS, HTML, JavaScript, Python & SQL Proficient in Excel and Microsoft Office, Presentation Skills, Teamwork and Collaboration, Conflict Resolution & Problem solving, Communication & Organization\n\n\n\nSoccer, Reading, Gardening"
   },
   {
-    "objectID": "competition.html",
-    "href": "competition.html",
+    "objectID": "resume.html#currently",
+    "href": "resume.html#currently",
+    "title": "Elie S Mambou’s CV",
+    "section": "",
+    "text": "Working for The Africa South Area, Church of Jesus Christ of latter-day Saints\n\n\nTraining, developing capabilities among team members, Coordinating resolutions of issues, and balancing priorities.\n\n\n\nEnglish, French, German, Spanish and Portuguese.\n\n\n\nMay 2020 - Present Multilanguage Translation Manager, May 2020 - Present\nJanuary 20213 - Aprl 2020 Senior Accountant, January 2013 - April 2020"
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Elie S Mambou’s CV",
+    "section": "",
+    "text": "1987 - 1992 Rural Institute of Development\n1993 - 1995 Faculty of Economic Science\n2014 - 2019 Brigham Young University Idaho, Rexburg USA, Bachelor of Science, Business Management, emphasis - Finance\nWriting and Reasoning foundations; Marketing Management; Entrepreneurial Management; Organizational Effectiveness; Business & Leadership skills; Business Statistics; Production & Operation Management; Commercial Fundamentals; Financial and Managerial Accounting\n2021 - 2024 Brigham Young University Idaho, Rexburg USA, Bachelor of Science, Applied Technology, emphasis - Web Development\nCreate dynamic webpages adhering to industry standards and best practices; Continuously acquire and implement new technologies and programming technique; Demonstrate well-developed problem-solving skills; Utilize Object-Oriented Programming principles; Demonstrate the ability to design and develop effective online solutions using current web technologies; Develop programs to achieve meaningful tasks across diverse domains"
+  },
+  {
+    "objectID": "resume.html#skills",
+    "href": "resume.html#skills",
+    "title": "Elie S Mambou’s CV",
+    "section": "",
+    "text": "CSS, HTML, JavaScript, Python & SQL Proficient in Excel and Microsoft Office, Presentation Skills, Teamwork and Collaboration, Conflict Resolution & Problem solving, Communication & Organization"
+  },
+  {
+    "objectID": "resume.html#hobbies",
+    "href": "resume.html#hobbies",
+    "title": "Elie S Mambou’s CV",
+    "section": "",
+    "text": "Soccer, Reading, Gardening"
+  },
+  {
+    "objectID": "full_stack.html",
+    "href": "full_stack.html",
     "title": "about me",
     "section": "",
     "text": "MarkDown Basics",
     "crumbs": [
-      "Competition"
+      "Full Stack"
     ]
   },
   {
-    "objectID": "competition.html#title-2-header",
-    "href": "competition.html#title-2-header",
+    "objectID": "full_stack.html#title-2-header",
+    "href": "full_stack.html#title-2-header",
     "title": "about me",
     "section": "",
     "text": "MarkDown Basics",
     "crumbs": [
-      "Competition"
+      "Full Stack"
     ]
   },
   {
-    "objectID": "Cleansing_Exploration/project5.html",
-    "href": "Cleansing_Exploration/project5.html",
+    "objectID": "Cleansing_Exploration/project4.html",
+    "href": "Cleansing_Exploration/project4.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "Cleansing_Exploration/project3.html",
-    "href": "Cleansing_Exploration/project3.html",
+    "objectID": "Cleansing_Exploration/project2.html",
+    "href": "Cleansing_Exploration/project2.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "Cleansing_Exploration/project1.html",
-    "href": "Cleansing_Exploration/project1.html",
-    "title": "Client Report - [Insert Project Title]",
+    "objectID": "cleansing.html",
+    "href": "cleansing.html",
+    "title": "about me",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Data Cleansing"
+    ]
+  },
+  {
+    "objectID": "cleansing.html#title-2-header",
+    "href": "cleansing.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Data Cleansing"
+    ]
   }
 ]
